@@ -1,8 +1,25 @@
+/********************************************
+	MAIN.JS
+
+main.js is responsible for the javascript code
+written for the View Recipe page of the site.
+
+It is organized into a few sections:
+  1. Variable declarations
+  2. JavaScript functions
+  3. OnClick functions
+
+********************************************/
+
+/*********** SECTION 1: Variable declarations *************/
+
 let nameA = true;
 let dateA = true;
 let servA = true;
 let cookA = true;
 let ingA = true;
+
+// Dummy array full of example recipes
 var jsonArray = [
 {
   "name": "Fried Pickles",
@@ -50,6 +67,9 @@ var jsonArray = [
 }
 ];
 
+/*********** SECTION 2: JavaScript Functions *************/
+
+// TODO Implementation incoming...
 function addRecipe(){
 
 }
@@ -101,6 +121,7 @@ window.onload = function() {
   generateHTMLFromJSON();
 };
 
+// Function to sort recipes by ingredients on the VIEW page
 function sortIngredients(){
   var container = document.getElementById('content');
   container.innerHTML = '';
@@ -113,6 +134,8 @@ function sortIngredients(){
       });
   generateHTMLFromJSON(); 
 }
+
+// Function to sort recipes by cook time on the VIEW page
 function sortCook(){
   var container = document.getElementById('content');
   container.innerHTML = '';
@@ -125,6 +148,8 @@ function sortCook(){
       });
   generateHTMLFromJSON();  
 }
+
+// Function to sort recipes alphabetically on the VIEW page
 function sortName(){
   var container = document.getElementById('content');
   container.innerHTML = '';
@@ -150,8 +175,9 @@ function sortName(){
         });
   }
   generateHTMLFromJSON();
-
 }
+
+// Function to sort recipes by number of servings on the VIEW page
 function sortServings(){
   var container = document.getElementById('content');
   container.innerHTML = '';
@@ -165,8 +191,9 @@ function sortServings(){
   generateHTMLFromJSON(); 
 }
 
+/*********** SECTION 3: OnClick Functions *************/
 
-
+// Connects sort-by name button to function
 function onClickName() {
   var buttons = document.querySelectorAll("[tag='name']");
 
@@ -181,6 +208,8 @@ function onClickName() {
   sortName(); 
   nameA = !nameA;
 }
+
+// Connects sort-by ingredients button to function
 function onClickIng() {
   var buttons = document.querySelectorAll("[tag='numIng']");
 
@@ -196,6 +225,8 @@ function onClickIng() {
   // Toggle the state
   ingA = !ingA;
 }
+
+// Connects sort-by date button to function
 function onClickDate() {
   var buttons = document.querySelectorAll("[tag='date']");
 
@@ -210,6 +241,8 @@ function onClickDate() {
 
   dateA = !dateA;
 }
+
+// Connects sort-by servings button to function
 function onClickServ() {
   var buttons = document.querySelectorAll("[tag='serv']");
 
@@ -225,6 +258,8 @@ function onClickServ() {
 
   servA = !servA;
 }
+
+// Connects sort-by cook time button to function
 function onClickCook() {
   var buttons = document.querySelectorAll("[tag='cook']");
 

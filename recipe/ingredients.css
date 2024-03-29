@@ -3,13 +3,12 @@
   align-content:space-evenly;
 }
 
-.collapse-app{
+.collapse {
   flex-direction:column;
-
   display:grid;
   grid-template-columns:auto auto auto auto;
 }
-.collapse-diet {
+/*.collapse-diet {
   flex-direction:column;
   display:grid;
   grid-template-columns:auto auto auto auto;
@@ -24,15 +23,11 @@
   flex-direction:column;
   grid-template-columns:auto auto auto auto;
   display:grid;
-}
+}*/
 
 .form-check-label{
   font-family: "Arial","sans-serify"; 
 }
-/*.form-check-input{
-display:grid;
-  grid-template-columns:auto auto auto;
-}*/
 
 h2 {
   font-weight:bold;
@@ -43,5 +38,9 @@ h3 {
   font-weight:bold;
   font-family:"Comic Sans MS","Comic Sans", "cursive";
   font-size:40px;
-
+}
+.btn-primary {
+  background-color:#ff9ad8;
+  color:white;
+  font-weight:bold;	
 }
