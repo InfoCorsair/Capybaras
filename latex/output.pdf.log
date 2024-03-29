@@ -1,0 +1,13 @@
+This is TeX, Version 3.141592653 (TeX Live 2022/Debian) (preloaded format=tex 2023.8.3)  26 MAR 2024 14:59
+**output.pdf.tex
+(./output.pdf.tex
+! Undefined control sequence.
+l.1 \begin
+          {center}\{LARGE CapyCookin}\end{center}
+? 
+! Emergency stop.
+l.1 
+    
+End of file on the terminal!
+
+No pages of output.

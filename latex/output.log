@@ -1,0 +1,13 @@
+This is TeX, Version 3.141592653 (TeX Live 2022/Debian) (preloaded format=tex 2023.8.3)  26 MAR 2024 15:01
+**output.tex
+(./output.tex
+! Undefined control sequence.
+l.1 \begin
+          {center}
+? 
+! Emergency stop.
+l.1 
+    
+End of file on the terminal!
+
+No pages of output.

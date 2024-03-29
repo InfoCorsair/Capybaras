@@ -1,0 +1,42 @@
+\documentclass{article}
+\usepackage{cuisine}
+\usepackage{fancyhdr,nth,amsmath,listings,caption,color,xcolor,url}
+
+%sets up ye ole page header change this if you want or get rid of it!
+\pagestyle{fancy}
+\fancyhf{}
+\chead{\textit{Capybaras}}
+\cfoot{\thepage }
+\renewcommand{\headrulewidth}{0pt}
+
+\newcommand{\code}[1]{\texttt{#1}}
+
+\begin{document}
+%a custom title for "title"
+\begin{center}
+ {\LARGE CapyCookin'}
+\end{center}
+\bigskip
+
+%
+
+%you will usually want to put things in a list
+%\begin{enumerate}
+
+
+\begin{recipe}{Title} {Number of servings} {Preparation time}
+%maybe place things in here at some point?
+\ingredient{4} {oz} {milk}
+
+%\item Or place recipe here and place the ingredients list up there? 
+
+
+\end{recipe}
+
+\begin{verbatim}
+    vim rec_template.tex
+    pdflatex rec_template.tex
+\end{verbatim}
+
+\end{document}
+
