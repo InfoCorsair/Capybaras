@@ -5,8 +5,11 @@
 3. add a toggle list function in exportImport.html //Works
 4. add a toggle list function in ingredients.html //Works
 6. add a toggle list funciton in recipe.html //Works
-7. Figure out a way to direct user to an Upload interface //I have something, but it's rough and understanding is the biggest hurdle for me
-8. Figure out a way to direct user to a Download interface
-9. Implement Upload Form inside exportImport.html file
-9. Implement Upload and Download logic in exportImport.html //Might need to create functions in exportImport.js file
-    --where do I start
+9. Implement Upload Form inside exportImport.html file //works
+9. Use href to direct to file location in Capybaras to then fetch and download file.//
+
+What is the goal: I want to be able to click browse and be able to click a file to choose from and download it. I want to be able to click browse and select a file to upload it to the database.
+
+Start small, don't overthink. Go to geeksforgeeks or stackoverflow, and look at 210 files if need be.
+
+I am going to go to geeksforgeeks first.
