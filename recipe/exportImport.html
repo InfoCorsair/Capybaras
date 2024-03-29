@@ -9,6 +9,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="style.css">
+  <script src="exportImport.js"></script>
 
 </head>
 
@@ -58,13 +59,25 @@
     </div>
   </nav>
 
-  <div class="upload-container">
-    <div class="upload-form">
-      <h2>Upload a Recipe</h2>
-      <form action="/home/Capybaras/latex/rec_template.pdf" method="post" enctype="multipart/form-data">
-        <label for="recipe"></label>
-        <input id="exportFile" type="file" name="recipe">
-        <button id="upload" type="submit" name="uploadRecipe" href="/home/Capybaras/latex/rec_template.pdf">Upload</button>
+  <div class="export/import">
+    <h1>How to Export or Import Recipes</h1>
+    <div class="export_form">
+      <h2>Exporting a Recipe</h2>
+      <h5>1. Select if you want to export a recipe from us or from your account.</h5>
+      <!--Implement option selection-->
+      <form action="/latex" method="post" enctype="multipart/form-data">
+        <label for="recipe" id="recipeSelect" </label>
+          <h5>2. Select the recipe you want to export.</h5>
+          <!--Implement recipe selection-->
+          <select name="recipe" id="recipeSelection">
+            <option onclick="showSelection()" value="rec_template.pdf">fileTest</option>
+          </select>
+          <h5>3. Select the format you want to export the recipe in. The default format is PDF.</h5>
+          <!--Implement recipe format to convert .pdf to any file type-->
+          <h5>4. Click the export button.</h5>
+          <!--<input id="exportFile" type="file" name="recipe">-->
+          <input type="submit" value="Export">
+          <!--<button id="export" type="submit" name="uploadRecipe">Export</button>-->
       </form>
     </div>
   </div>
