@@ -1,0 +1,1215 @@
+Abalone, IGR1, Weight
+Abiyuch, IGR2, Amount
+Acerola, IGR3, Amount
+Achilleas, IGR4
+Acorn,IGR5
+Acorn Squash,IGR6
+Adobo,IGR7
+Adzuki bean,IGR8
+Agar,IGR9
+Agave,IGR10
+Agave Nectar,IGR11
+Akutaq,IGR12
+Alaska blackfish,IGR13
+Alaska pollock,IGR14
+Alaska wild rhubarb,IGR15
+Albacore tuna,IGR16
+Alfalfa,IGR17
+All-purpose flour,IGR18
+Allium,IGR19
+Allspice,IGR20
+Almond,IGR21
+Almond essence,IGR22
+Alpine sweetvetch,IGR23
+Alpinia,IGR24
+Amaranth,IGR25
+Amaretti,IGR26
+docker run --rm -it -p 27017:27017 mongo:latestAmerican butterfish,IGR27
+American Cheese,IGR28
+American pokeweed,IGR29
+American shad,IGR30
+Anatidae,IGR31
+Anchovy,IGR32
+Angelica,IGR33
+Anguilliformes,IGR34
+Anise,IGR35
+Anise Brandy,IGR36
+Anise Hyssop,IGR37
+Anise Oil,IGR38
+Apple,IGR39
+Apple Brandy,IGR40
+Apple Cider Vinegar,IGR41
+Apple juice,IGR42
+Apple Sauce,IGR43
+Apricot,IGR44
+Arabica coffee,IGR45
+Arar,IGR46
+Arborio Rice,IGR47
+Arepa,IGR48
+Armagnac Brandy,IGR49
+Arrack,IGR50
+Arrowhead,IGR51
+Arrowroot,IGR52
+Artemisia,IGR53
+Artichoke,IGR54
+Artichoke heart,IGR55
+Arugula,IGR56
+Asafoetida,IGR57
+Ascidians,IGR58
+Ashgourd,IGR59
+Asparagus,IGR60
+Asparagus spear,IGR61
+Atlantic croaker,IGR62
+Atlantic halibut,IGR63
+Atlantic herring,IGR64
+Atlantic mackerel,IGR65
+Atlantic menhaden,IGR66
+Atlantic pollock,IGR67
+Atlantic salmon,IGR68
+Atlantic wolffish,IGR69
+Aubergine,IGR70
+Avocado,IGR71
+Babaco,IGR72
+Babassu palm,IGR73
+Bacon,IGR74
+Bagel,IGR75
+Baguette,IGR76
+Baked beans,IGR77
+Baked potato,IGR78
+Baking Powder,IGR79
+Balsamic Vinegar,IGR80
+Bamboo Shoots,IGR81
+Banana,IGR82
+Bantu Beer,IGR83
+Bap,IGR84
+Barley,IGR85
+Bartlett Pear,IGR86
+Basil,IGR87
+Basmati Rice,IGR88
+Bay Leaves,IGR89
+Bayberry,IGR90
+Beans,IGR91
+Bearded seal,IGR92
+Beaver,IGR93
+Beech nut,IGR94
+Beef,IGR95
+Beef brisket,IGR96
+Beef mince,IGR97
+Beef Processed,IGR98
+Beef stock,IGR99
+Beefalo,IGR100
+Beer,IGR101
+Beetroot,IGR102
+Beli,IGR103
+Bell Peppers,IGR104
+Beluga whale,IGR105
+Bergamot,IGR106
+Berry wine,IGR107
+Bilberry,IGR108
+Bilberry Wine,IGR109
+Biscuit,IGR110
+Bison,IGR111
+Bitter Cherry,IGR112
+Bitter Orange,IGR113
+Bittergourd,IGR114
+Bivalvia,IGR115
+Black Bean,IGR116
+Black bear,IGR117
+Black crowberry,IGR118
+Black Currant,IGR119
+Black huckleberry,IGR120
+Black mulberry,IGR121
+Black olive,IGR122
+Black raspberry,IGR123
+Black Rice,IGR124
+Black salsify,IGR125
+Black Tea,IGR126
+Black-eyed pea,IGR127
+Black-eyed peas,IGR128
+Blackberries,IGR129
+Blackberry,IGR130
+Blackberry Brandy,IGR131
+Blue Cheese,IGR132
+Blue whiting,IGR133
+Blueberries,IGR134
+Blueberry,IGR135
+Bluefish,IGR136
+Bonito,IGR137
+Bonnet chilli,IGR138
+Borage,IGR139
+Botrytized Wine,IGR140
+Bottlegourd,IGR141
+Bouillon,IGR142
+Bourbon,IGR143
+Bourbon Whisky,IGR144
+Bowhead whale,IGR145
+Boysenberry,IGR146
+Braising steak,IGR147
+Bran,IGR148
+Brandy,IGR149
+Brazil Nut,IGR150
+Bread,IGR151
+Breadcrumbs,IGR152
+Breadfruit,IGR153
+Breakfast cereal,IGR154
+Brie,IGR155
+Brine,IGR156
+Broad whitefish,IGR157
+Broccoli,IGR158
+Brown bear,IGR159
+Brown rice,IGR160
+Brown sauce,IGR161
+Brown Sugar,IGR162
+Brussel Sprouts,IGR163
+Brussels Sprout,IGR164
+Buchu,IGR165
+Buckwheat,IGR166
+Buffalo,IGR167
+Buffalo currant,IGR168
+Bulgur,IGR169
+Bun,IGR170
+Burbot,IGR171
+Burdock,IGR172
+Burrito,IGR173
+Butter,IGR174
+Buttermilk,IGR175
+Butternut,IGR176
+Butternut Squash,IGR177
+Butterscotch,IGR178
+Byrsonima crassifolia,IGR179
+Cabbage,IGR180
+Cajeput,IGR181
+Cake,IGR182
+Calamus,IGR183
+Camembert Cheese,IGR184
+Camphor,IGR185
+Canada blueberry,IGR186
+Canadian Whisky,IGR187
+Candy bar,IGR188
+Canned Tomato,IGR189
+Cannellini,IGR190
+Canola oil,IGR191
+Caper,IGR192
+Capers,IGR193
+Capsicum,IGR194
+Caramel,IGR195
+Caraway,IGR196
+Caraway seed,IGR197
+Cardamom,IGR198
+Cardoon,IGR199
+Caribou,IGR200
+Carob,IGR201
+Carom Seed,IGR202
+Carp bream,IGR203
+Carrot,IGR204
+Cascarilla,IGR205
+Casein,IGR206
+Cashew,IGR207
+Cashew Apple,IGR208
+Cashew nut,IGR209
+Cassava,IGR210
+Cassia,IGR211
+Caster sugar,IGR212
+Catfish,IGR213
+Catjang pea,IGR214
+Cauliflower,IGR215
+Caviar,IGR216
+Cayenne,IGR217
+Cayenne pepper,IGR218
+Cedar,IGR219
+Celeriac,IGR220
+Celery,IGR221
+Celery Root,IGR222
+Cereal,IGR223
+Ceriman,IGR224
+Cetacea,IGR225
+Chamomile,IGR226
+Champaca,IGR227
+Champagne,IGR228
+Channel catfish,IGR229
+Chanterelle,IGR230
+Chard,IGR231
+Charr,IGR232
+Chayote,IGR233
+Cheddar Cheese,IGR234
+Cheese,IGR235
+Cherimoya,IGR236
+Cherries,IGR237
+Cherry,IGR238
+Cherry Brandy,IGR239
+Cherry Pepper,IGR240
+Cherry Tomato,IGR241
+Chervil,IGR242
+Chestnut,IGR243
+Chewing gum,IGR244
+Chia,IGR245
+Chicken,IGR246
+Chicken Breast,IGR247
+Chicken Broth,IGR248
+Chicken drumstick,IGR249
+Chicken leg,IGR250
+Chicken stock,IGR251
+Chicken thigh,IGR252
+Chickpea,IGR253
+Chickpeas,IGR254
+Chicory,IGR255
+Chile,IGR256
+Chilies,IGR257
+Chilli,IGR258
+Chimichanga,IGR259
+Chinese bayberry,IGR260
+Chinese chestnut,IGR261
+Chinese Quince,IGR262
+Chinook salmon,IGR263
+Chipotle Pepper,IGR264
+Chive,IGR265
+Chocolate,IGR266
+Chocolate mousse,IGR267
+Chocolate spread,IGR268
+Chop,IGR269
+Choy,IGR270
+Chum salmon,IGR271
+Chutney,IGR272
+Ciabatta,IGR273
+Cichlidae,IGR274
+Cider,IGR275
+Cilantro,IGR276
+Cinnamon,IGR277
+Cisco,IGR278
+Citric Acid,IGR279
+Citronella Oil,IGR280
+Citrus Fruits,IGR281
+Citrus Peel Oil,IGR282
+Clam,IGR283
+Clarified butter,IGR284
+Clary Sage,IGR285
+Climbing bean,IGR286
+Cloud ear fungus,IGR287
+Cloudberry,IGR288
+Clove,IGR289
+Cloves,IGR290
+Clupeinae,IGR291
+Cluster Bean,IGR292
+Cocktail,IGR293
+Cocoa,IGR294
+Cocoa butter,IGR295
+Cocoa powder,IGR296
+Coconut,IGR297
+Coconut Milk,IGR298
+Coconut Oil,IGR299
+Cod,IGR300
+Codfish,IGR301
+Coffee,IGR302
+Coffee mocha,IGR303
+Cognac Brandy,IGR304
+Coho salmon,IGR305
+Cold cut,IGR306
+Coleslaw,IGR307
+Colocasia,IGR308
+Colorado pinyon,IGR309
+Columbidae,IGR310
+Common carp,IGR311
+Common dab,IGR312
+Common ling,IGR313
+Common octopus,IGR314
+Common persimmon,IGR315
+Common salsify,IGR316
+Common Tuna,IGR317
+Common verbena,IGR318
+Comte Cheese,IGR319
+Conch,IGR320
+Condensed milk,IGR321
+Cooking oil,IGR322
+Cooking Spray,IGR323
+Coriander,IGR324
+Coriander leaves,IGR325
+Coriander Seed,IGR326
+Corn,IGR327
+Corn chip,IGR328
+Corn grits,IGR329
+Corn Oil,IGR330
+Corn salad,IGR331
+Cornbread,IGR332
+Cornflour,IGR333
+Cornmeal,IGR334
+Cornmint,IGR335
+Cottage Cheese,IGR336
+Cottonseed,IGR337
+Courgette,IGR338
+Couscous,IGR339
+Crab,IGR340
+Cranberries,IGR341
+Cranberry,IGR342
+Cranberry juice,IGR343
+Crayfish,IGR344
+Cream,IGR345
+Cream Cheese,IGR346
+Creme de cassis,IGR347
+Creme fraiche,IGR348
+Creosote,IGR349
+Crispbread,IGR350
+Crust,IGR351
+Cucumber,IGR352
+Cucurbita,IGR353
+Cumin,IGR354
+Cured Ham,IGR355
+Currant,IGR356
+Curry Leaf,IGR357
+Cusk,IGR358
+Custard,IGR359
+Cuttlefish,IGR360
+Dandelion,IGR361
+Dates,IGR362
+Deer,IGR363
+Deerberry,IGR364
+Delicata Squash,IGR365
+Devilfish,IGR366
+Dijon mustard,IGR367
+Dill,IGR368
+Dock,IGR369
+Dolphin fish,IGR370
+Domiati Cheese,IGR371
+Double cream,IGR372
+Drumstick Leaf,IGR373
+Duck,IGR374
+Dulce de leche,IGR375
+Dumpling,IGR376
+Durian,IGR377
+Edamame bean,IGR378
+Egg,IGR379
+Egg roll,IGR380
+Eggplant,IGR381
+Elderberry,IGR382
+Elk,IGR383
+Elliott's blueberry,IGR384
+Emmental Cheese,IGR385
+Empanada,IGR386
+Emu,IGR387
+Enchilada,IGR388
+Endive,IGR389
+Enokitake,IGR390
+Epazote,IGR391
+Escarole,IGR392
+Espresso,IGR393
+Eucalyptus Oil,IGR394
+European anchovy,IGR395
+European chestnut,IGR396
+European rabbit,IGR397
+Evaporated milk,IGR398
+Evening primrose,IGR399
+Falafel,IGR400
+Farro,IGR401
+Fatty Fish,IGR402
+Feijoa,IGR403
+Fennel,IGR404
+Fenugreek,IGR405
+Fermented Tea,IGR406
+Feta,IGR407
+Feta Cheese,IGR408
+Fig,IGR409
+Filbert,IGR410
+Fillet steak,IGR411
+Filo pastry,IGR412
+Fingerling Potato,IGR413
+Finnish Whisky,IGR414
+Fir,IGR415
+Fireweed,IGR416
+Fish,IGR417
+Fish burger,IGR418
+Fish Oil,IGR419
+Flank,IGR420
+Flatfish,IGR421
+Flaxseed,IGR422
+Florida pompano,IGR423
+Flour,IGR424
+Focaccia,IGR425
+Foie gras,IGR426
+Food Coloring,IGR427
+Frankfurter Sausage,IGR428
+French plantain,IGR429
+French toast,IGR430
+Freshwater drum,IGR431
+Freshwater eel,IGR432
+Fried Potato,IGR433
+Fruit gum,IGR434
+Fruit juice,IGR435
+Fruit salad,IGR436
+Frybread,IGR437
+Fudge,IGR438
+Gadiformes,IGR439
+Garam masala,IGR440
+Garcinia Indica,IGR441
+Garden cress,IGR442
+Garfish,IGR443
+Garland chrysanthemum,IGR444
+Garlic,IGR445
+Gefilte fish,IGR446
+Gelatin,IGR447
+Gelatin dessert,IGR448
+Geranium,IGR449
+Ghee,IGR450
+Ghost Pepper,IGR451
+Giant butterbur,IGR452
+Gin,IGR453
+Ginger,IGR454
+Ginkgo nuts,IGR455
+Ginseng,IGR456
+Glucose,IGR457
+Goat,IGR458
+Goat Cheese,IGR459
+Goat Milk,IGR460
+Goat's cheese,IGR461
+Golden syrup,IGR462
+Gooseberry,IGR463
+Gorgonzola,IGR464
+Gouda,IGR465
+Gram bean,IGR466
+Grape,IGR467
+Grape Tomato,IGR468
+Grapefruit,IGR469
+Grapefruit Peel Oil,IGR470
+Grapeseed,IGR471
+Grass,IGR472
+Grass pea,IGR473
+Great horned owl,IGR474
+Greater sturgeon,IGR475
+Greek yogurt,IGR476
+Green,IGR477
+Green Beans,IGR478
+Green olive,IGR479
+Green Onion,IGR480
+Green pepper,IGR481
+Green Tea,IGR482
+Green turtle,IGR483
+Green zucchini,IGR484
+Greenland halibut,IGR485
+Greenthread tea,IGR486
+Greylag goose,IGR487
+Ground Beef,IGR488
+Ground Turkey,IGR489
+Groundcherry,IGR490
+Grouper,IGR491
+Gruyere,IGR492
+Gruyere cheese,IGR493
+Guava,IGR494
+Guinea hen,IGR495
+Habanero sauce,IGR496
+Haddock,IGR497
+Ham,IGR498
+Hamburger,IGR499
+Hard wheat,IGR500
+Harissa,IGR501
+Hazelnut,IGR502
+Heart of Palm,IGR503
+Hedge mustard,IGR504
+Heirloom Tomato,IGR505
+Herbs,IGR506
+Hibiscus tea,IGR507
+Hippoglossus,IGR508
+Hogplum,IGR509
+Hoisin,IGR510
+Hoisin sauce,IGR511
+Honey,IGR512
+Honeydew melon,IGR513
+Hops,IGR514
+Hops Beer,IGR515
+Hops Oil,IGR516
+Horchata,IGR517
+Horned melon,IGR518
+Horse,IGR519
+Horseradish,IGR520
+Hot chocolate,IGR521
+Hot dog,IGR522
+Hubbard Squash,IGR523
+Hummus,IGR524
+Hushpuppy,IGR525
+Hyacinth,IGR526
+Hyacinth bean,IGR527
+Hyssop Oil,IGR528
+Ice cream,IGR529
+Ice cream cone,IGR530
+Iceberg lettuce,IGR531
+Icing,IGR532
+Icing sugar,IGR533
+Irish moss,IGR534
+Jackfruit,IGR535
+Jalapeno,IGR536
+Jalapeno pepper,IGR537
+Jalapenos,IGR538
+Japanese chestnut,IGR539
+Japanese persimmon,IGR540
+Japanese pumpkin,IGR541
+Japanese Whisky,IGR542
+Jasmine,IGR543
+Jasmine Rice,IGR544
+Jellyfish,IGR545
+Jerusalem artichoke,IGR546
+Jew's ear,IGR547
+Jicama,IGR548
+Jostaberry,IGR549
+Juice,IGR550
+Jujube,IGR551
+Julienne,IGR552
+Junket,IGR553
+Jute,IGR554
+Kabocha Squash,IGR555
+Kai lan,IGR556
+Kalamata olives,IGR557
+Kale,IGR558
+Kefir,IGR559
+Kelp,IGR560
+Kenaf,IGR561
+Ketchup,IGR562
+Kewda,IGR563
+Kidney bean,IGR564
+Kidney Beans,IGR565
+King mackerel,IGR566
+Kiwi,IGR567
+Kiwifruit,IGR568
+Kohlrabi,IGR569
+Komatsuna,IGR570
+Kombu,IGR571
+Krill,IGR572
+Kumquat,IGR573
+Lager,IGR574
+Lake trout,IGR575
+Lamb,IGR576
+Lambsquarters,IGR577
+Lard,IGR578
+Lardons,IGR579
+Lasagna,IGR580
+Laurel,IGR581
+Lavendar,IGR582
+Lavender,IGR583
+Lean Fish,IGR584
+Leather chiton,IGR585
+Leavening agent,IGR586
+Leek,IGR587
+Leeks,IGR588
+Lemon,IGR589
+Lemon Balm,IGR590
+Lemon Grass,IGR591
+Lemon Juice,IGR592
+Lemon Peel Oil,IGR593
+Lemon sole,IGR594
+Lemon verbena,IGR595
+Lemongrass,IGR596
+Lentil,IGR597
+Lentils,IGR598
+Lettuce,IGR599
+Lima Beans,IGR600
+Limburger Cheese,IGR601
+Lime,IGR602
+Lime Peel Oil,IGR603
+Limoncello,IGR604
+Linden,IGR605
+Lingcod,IGR606
+Lingonberry,IGR607
+Liqourice,IGR608
+Liquid Smoke,IGR609
+Litchi,IGR610
+Lobster,IGR611
+Loganberry,IGR612
+Loin,IGR613
+Longan,IGR614
+Loquat,IGR615
+Lotus,IGR616
+Lovage,IGR617
+Lumpsucker,IGR618
+Lupine,IGR619
+Lychee,IGR620
+Macadamia nut,IGR621
+Macaroni,IGR622
+Mace,IGR623
+Madeira wine,IGR624
+Maitake,IGR625
+Malabar plum,IGR626
+Malabar spinach,IGR627
+Malay Apple,IGR628
+Malt,IGR629
+Malt Whisky,IGR630
+Mammee apple,IGR631
+Mandarin Orange,IGR632
+Mandarin Orange Peel Oil,IGR633
+Mangetout,IGR634
+Mango,IGR635
+Maple Syrup,IGR636
+Margarine,IGR637
+Marinara,IGR638
+Marjoram,IGR639
+Marshmallow,IGR640
+Marzano,IGR641
+Marzipan,IGR642
+Mascarpone,IGR643
+Mastic Gum,IGR644
+Mate,IGR645
+Mayonnaise,IGR646
+Meat,IGR647
+Meat bouillon,IGR648
+Meatball,IGR649
+Meatloaf,IGR650
+Medlar,IGR651
+Melon,IGR652
+Mentha Oil,IGR653
+Meringue,IGR654
+Mexican groundcherry,IGR655
+Mexican oregano,IGR656
+Milk,IGR657
+Milk Fat,IGR658
+Milk Human,IGR659
+Milk Powder,IGR660
+Milkfish,IGR661
+Milkshake,IGR662
+Millet,IGR663
+Mince,IGR664
+Mint,IGR665
+Mirin,IGR666
+Miso,IGR667
+Miso soup,IGR668
+Mixed nuts,IGR669
+Molasses,IGR670
+Mollusc,IGR671
+Monkfish,IGR672
+Monosodium Glutamate,IGR673
+Monterey jack,IGR674
+Moose,IGR675
+Morchella,IGR676
+Moth bean,IGR677
+Mountain hare,IGR678
+Mountain Papaya,IGR679
+Mountain yam,IGR680
+Mozzarella,IGR681
+Mozzarella Cheese,IGR682
+Mulberry,IGR683
+Mule deer,IGR684
+Multigrain bread,IGR685
+Mung bean,IGR686
+Munster Cheese,IGR687
+Muscadine grape,IGR688
+Mushroom,IGR689
+Musk Melon,IGR690
+Muskmallow,IGR691
+Muskrat,IGR692
+Mustard,IGR693
+Mustard Oil,IGR694
+Mutton,IGR695
+Myrrh,IGR696
+Myrtle,IGR697
+Nachos,IGR698
+Nance,IGR699
+Nanking cherry,IGR700
+Naranjilla,IGR701
+Narrowleaf cattail,IGR702
+Natal plum,IGR703
+Natto,IGR704
+Natural yogurt,IGR705
+Neroli Oil,IGR706
+New potato,IGR707
+New Zealand spinach,IGR708
+Nigella Seed,IGR709
+Nopal,IGR710
+North Pacific giant octopus,IGR711
+Northern bluefin tuna,IGR712
+Northern pike,IGR713
+Norway haddock,IGR714
+Norway pout,IGR715
+Nougat,IGR716
+Nutella,IGR717
+Nutmeg,IGR718
+Nuttall cockle,IGR719
+Oat,IGR720
+Oat bread,IGR721
+Oats,IGR722
+Ocean pout,IGR723
+Ohelo berry,IGR724
+Oil,IGR725
+Oil palm,IGR726
+Oil-seed Camellia,IGR727
+Okra,IGR728
+Olive,IGR729
+Olive oil,IGR730
+Onion,IGR731
+Onion ring,IGR732
+Opossum,IGR733
+Orange,IGR734
+Orange essence,IGR735
+Orange juice,IGR736
+Orange Oil,IGR737
+Orange roughy,IGR738
+Oregano,IGR739
+Oregon yampah,IGR740
+Oriental wheat,IGR741
+Orris,IGR742
+Ostrich,IGR743
+Ostrich fern,IGR744
+Oyster,IGR745
+Oyster mushroom,IGR746
+Pacific herring,IGR747
+Pacific jack mackerel,IGR748
+Pacific ocean perch,IGR749
+Pacific rockfish,IGR750
+Pacific sardine,IGR751
+Painted comber,IGR752
+Pak choi,IGR753
+Pak choy,IGR754
+Pan dulce,IGR755
+Pancake,IGR756
+Pancetta,IGR757
+Paneer,IGR758
+Panko,IGR759
+Papaya,IGR760
+Papaya Brandy,IGR761
+Paprika,IGR762
+Parmesan Cheese,IGR763
+Parsley,IGR764
+Parsnip,IGR765
+Passion fruit,IGR766
+Passionfruit,IGR767
+Pasta,IGR768
+Pasta shell,IGR769
+Pastry,IGR770
+Pate,IGR771
+Pawpaw,IGR772
+Pea,IGR773
+Peach,IGR774
+Peaches,IGR775
+Peanut,IGR776
+Peanut Butter,IGR777
+Peanut Oil,IGR778
+Pear,IGR779
+Pear Brandy,IGR780
+Peas,IGR781
+Pecans,IGR782
+Pecorino,IGR783
+Pectin,IGR784
+Penne,IGR785
+Penne pasta,IGR786
+Pepino,IGR787
+Pepper,IGR788
+Peppercorn,IGR789
+Peppermint,IGR790
+Peppers,IGR791
+Perciformes,IGR792
+Percoidei,IGR793
+Persimmon,IGR794
+Pesto,IGR795
+Pheasant,IGR796
+Phyllo dough,IGR797
+Pickle,IGR798
+Pickled gherkin,IGR799
+Pickled onion,IGR800
+Pickled red onion,IGR801
+Pie,IGR802
+Pie crust,IGR803
+Pigeon Pea,IGR804
+Pikeperch,IGR805
+Piki bread,IGR806
+Pili nut,IGR807
+Pimento pepper,IGR808
+Pine,IGR809
+Pine nut,IGR810
+Pineapple,IGR811
+Pineappple sage,IGR812
+Pink salmon,IGR813
+Pistachio,IGR814
+Pistachios,IGR815
+Pita,IGR816
+Pita bread,IGR817
+Pitanga,IGR818
+Pitta,IGR819
+Pitted olive,IGR820
+Pizza,IGR821
+Plantain,IGR822
+Pleuronectidae,IGR823
+Plum,IGR824
+Plum Brandy,IGR825
+Plum tomato,IGR826
+Plum tomatoes,IGR827
+Plum Wine,IGR828
+Plumcot,IGR829
+Poblano,IGR830
+Pod,IGR831
+Polar bear,IGR832
+Polenta,IGR833
+Pollock,IGR834
+Pomegranate,IGR835
+Popcorn,IGR836
+Poppy Seed,IGR837
+Pork,IGR838
+Pork chop,IGR839
+Pork Loin,IGR840
+Porridge,IGR841
+Port Wine,IGR842
+Pot pie,IGR843
+Potato,IGR844
+Potato bread,IGR845
+Potato chip,IGR846
+Potato gratin,IGR847
+Potato puffs,IGR848
+Potatoes,IGR849
+Prairie turnip,IGR850
+Prawn,IGR851
+Prickly Pear,IGR852
+Prosciutto,IGR853
+Prosciutto ham,IGR854
+Provolone,IGR855
+Provolone Cheese,IGR856
+Pudding,IGR857
+Pummelo,IGR858
+Pumpkin,IGR859
+Pumpkinseed sunfish,IGR860
+Pupusa,IGR861
+Purple laver,IGR862
+Purple mangosteen,IGR863
+Purple Potato,IGR864
+Purslane,IGR865
+Quail,IGR866
+Quesadilla,IGR867
+Quince,IGR868
+Quinoa,IGR869
+Rabbit,IGR870
+Raccoon,IGR871
+Radicchio,IGR872
+Radish,IGR873
+Radishes,IGR874
+Rainbow smelt,IGR875
+Rainbow trout,IGR876
+Raisin,IGR877
+Raisin bread,IGR878
+Raisins,IGR879
+Rambutan,IGR880
+Rapeseed oil,IGR881
+Rapini,IGR882
+Raspberries,IGR883
+Raspberry,IGR884
+Raspberry Brandy,IGR885
+Ravioli,IGR886
+Red algae,IGR887
+Red Cabbage,IGR888
+Red Currant,IGR889
+Red king crab,IGR890
+Red Onion,IGR891
+Red pepper,IGR892
+Red raspberry,IGR893
+Red rice,IGR894
+Red Sage,IGR895
+Red Wine,IGR896
+Red wine vinegar,IGR897
+Redskin onion,IGR898
+Relish,IGR899
+Remoulade,IGR900
+Rhubarb,IGR901
+Rib,IGR902
+Rice,IGR903
+Rice bread,IGR904
+Rice cake,IGR905
+Rice Noodles,IGR906
+Rice Vinegar,IGR907
+Ricotta,IGR908
+Ricotta Cheese,IGR909
+Ringed seal,IGR910
+Rock ptarmigan,IGR911
+Rocket,IGR912
+Rocket salad,IGR913
+Roe,IGR914
+Roibos Tea,IGR915
+Roll,IGR916
+Romaine Lettuce,IGR917
+Romano Cheese,IGR918
+Roquefort Cheese,IGR919
+Rose,IGR920
+Rose hip,IGR921
+Rose Wine,IGR922
+Roseapple,IGR923
+Roselle,IGR924
+Rosemary,IGR925
+Rowal,IGR926
+Rowanberry,IGR927
+Rum,IGR928
+Russet,IGR929
+Russet Potato,IGR930
+Russian Cheese,IGR931
+Rutabaga,IGR932
+Rye,IGR933
+Rye Bread,IGR934
+Sablefish,IGR935
+Safflower,IGR936
+Saffron,IGR937
+Sage,IGR938
+Sago palm,IGR939
+Sake,IGR940
+Salad,IGR941
+Salad dressing,IGR942
+Salami,IGR943
+Salmon,IGR944
+Salmon flake,IGR945
+Salmonberry,IGR946
+Salmonidae,IGR947
+Salsa,IGR948
+Salt,IGR949
+Sandalwood,IGR950
+Sapodilla,IGR951
+Saskatoon berry,IGR952
+Sassafras,IGR953
+Satsuma Orange,IGR954
+Sauce,IGR955
+Sauerkraut,IGR956
+Sausage,IGR957
+Savoy cabbage,IGR958
+Scallop,IGR959
+Scarlet bean,IGR960
+Schnapps,IGR961
+Scombridae,IGR962
+Scotch,IGR963
+Scotch Spearmint,IGR964
+Scrapple,IGR965
+Scup,IGR966
+Sea Buckthorns,IGR967
+Sea cucumber,IGR968
+Sea trout,IGR969
+Self raising flour,IGR970
+Semolina,IGR971
+Serrano ham,IGR972
+Sesame,IGR973
+Sesame Oil,IGR974
+Sesbania flower,IGR975
+Shallot,IGR976
+Shallots,IGR977
+Shaohsing,IGR978
+Shark,IGR979
+Shea tree,IGR980
+Sheefish,IGR981
+Sheep Cheese,IGR982
+Sheep Milk,IGR983
+Sheepshead,IGR984
+Shellfish,IGR985
+Sherry,IGR986
+Shiitake,IGR987
+Shiitake mushroom,IGR988
+Shortcrust pastry,IGR989
+Shortening,IGR990
+Shrimp,IGR991
+Silver linden,IGR992
+Single cream,IGR993
+Sirloin,IGR994
+Sirloin steak,IGR995
+Skimmed Milk,IGR996
+Skunk currant,IGR997
+Slaw,IGR998
+Small leaf linden,IGR999
+Smelt,IGR1000
+Smoked Fish,IGR1001
+Smoky bacon,IGR1002
+Snack bar,IGR1003
+Snail,IGR1004
+Snapper,IGR1005
+Soba Noodles,IGR1006
+Sockeye salmon,IGR1007
+Soft drink,IGR1008
+Sorghum,IGR1009
+Sorrel,IGR1010
+Soup,IGR1011
+Sour Cherry,IGR1012
+Sour Cream,IGR1013
+Sourdock,IGR1014
+Sourdough,IGR1015
+Soursop,IGR1016
+Soy cream,IGR1017
+Soy milk,IGR1018
+Soy Sauce,IGR1019
+Soy yogurt,IGR1020
+Soybean,IGR1021
+Soybean Oil,IGR1022
+Soybean Sauce,IGR1023
+Spaghetti,IGR1024
+Spaghetti Squash,IGR1025
+Spanish mackerel,IGR1026
+Spanish Sage,IGR1027
+Sparkleberry,IGR1028
+Sparkling Wine,IGR1029
+Spearmint,IGR1030
+Spelt,IGR1031
+Spice,IGR1032
+Spinach,IGR1033
+Spineless Monkey Orange,IGR1034
+Spiny dogfish,IGR1035
+Spiny lobster,IGR1036
+Spirit,IGR1037
+Spirulina,IGR1038
+Sponge,IGR1039
+Spot croaker,IGR1040
+Spotted seal,IGR1041
+Spread,IGR1042
+Spring onion,IGR1043
+Sprout,IGR1044
+Squab,IGR1045
+Squash,IGR1046
+Squashberry,IGR1047
+Squid,IGR1048
+Squirrel,IGR1049
+Sriracha,IGR1050
+Star Anise,IGR1051
+Starfruit,IGR1052
+Steak,IGR1053
+Steller sea lion,IGR1054
+Stew,IGR1055
+Stock,IGR1056
+Storax,IGR1057
+Stout,IGR1058
+Strawberries,IGR1059
+Strawberry,IGR1060
+Strawberry Jam,IGR1061
+Strawberry Wine,IGR1062
+Striped bass,IGR1063
+Striped mullet,IGR1064
+Stuffing,IGR1065
+Sturgeon,IGR1066
+Succotash,IGR1067
+Sugar,IGR1068
+Sugar snap pea,IGR1069
+Sukiyaki,IGR1070
+Sultana,IGR1071
+Summer savory,IGR1072
+Sun-Dried Tomatoes,IGR1073
+Sunflower,IGR1074
+Sunflower oil,IGR1075
+Swamp cabbage,IGR1076
+Sweet Cherry,IGR1077
+Sweet custard,IGR1078
+Sweet Grass,IGR1079
+Sweet pepper,IGR1080
+Sweet Potato,IGR1081
+Sweetcorn,IGR1082
+Sweets,IGR1083
+Swiss Cheese,IGR1084
+Swordfish,IGR1085
+Syrup,IGR1086
+Taco,IGR1087
+Tamale,IGR1088
+Tamarind,IGR1089
+Tangerine,IGR1090
+Tapioca,IGR1091
+Tapioca pearl,IGR1092
+Taro,IGR1093
+Tarragon,IGR1094
+Tartar,IGR1095
+Tartary buckwheat,IGR1096
+Tea,IGR1097
+Tea leaf willow,IGR1098
+Teff,IGR1099
+Tequila,IGR1100
+Thistle,IGR1101
+Thyme,IGR1102
+Tilefish,IGR1103
+Tilsit Cheese,IGR1104
+Tinda,IGR1105
+Toast,IGR1106
+Tobacco,IGR1107
+Toffee,IGR1108
+Tofu,IGR1109
+Tomato,IGR1110
+Tomato Juice,IGR1111
+Tomato Paste,IGR1112
+Tomato puree,IGR1113
+Tomatoes,IGR1114
+Topping,IGR1115
+Tortilla,IGR1116
+Tortilla chip,IGR1117
+Tostada,IGR1118
+Towel gourd,IGR1119
+Trail mix,IGR1120
+Trassi,IGR1121
+Treacle,IGR1122
+Tree fern,IGR1123
+Triticale,IGR1124
+True frog,IGR1125
+True seal,IGR1126
+True sole,IGR1127
+Truffle,IGR1128
+Tuna,IGR1129
+Tuna steak,IGR1130
+Turbot,IGR1131
+Turkey,IGR1132
+Turkey Berry,IGR1133
+Turkey breast,IGR1134
+Turkey thigh,IGR1135
+Turmeric,IGR1136
+Turnip,IGR1137
+Ucuhuba,IGR1138
+Udon Noodles,IGR1139
+Unsweetened Chocolate,IGR1140
+Valerian,IGR1141
+Vanilla,IGR1142
+Vanilla essence,IGR1143
+Vanilla Extract,IGR1144
+Vanilla pod,IGR1145
+Veal,IGR1146
+Vegetable juice,IGR1147
+Vegetable oil,IGR1148
+Vermicelli,IGR1149
+Vermouth,IGR1150
+Vinaigrette,IGR1151
+Vinegar,IGR1152
+Vodka,IGR1153
+Waffle,IGR1154
+Wakame,IGR1155
+Walleye,IGR1156
+Walnut,IGR1157
+Walrus,IGR1158
+Wasabi,IGR1159
+Water,IGR1160
+Water Chestnut,IGR1161
+Water Chestnuts,IGR1162
+Watercress,IGR1163
+Watermelon,IGR1164
+Wattle,IGR1165
+Weinbrand Brandy,IGR1166
+Welsh onion,IGR1167
+Wheat,IGR1168
+Wheaten Bread,IGR1169
+Whelk,IGR1170
+Whey,IGR1171
+Whisky,IGR1172
+White Bread,IGR1173
+White Currant,IGR1174
+White lupine,IGR1175
+White Pepper,IGR1176
+White rice,IGR1177
+White sucker,IGR1178
+White Wine,IGR1179
+White Wine Vinegar,IGR1180
+Whitefish,IGR1181
+Whiting,IGR1182
+Whole Chicken,IGR1183
+Whole Turkey,IGR1184
+Wholegrain pasta,IGR1185
+Wholewheat Bread,IGR1186
+Wild boar,IGR1187
+Wild duck,IGR1188
+Wild Rice,IGR1189
+Wine,IGR1190
+Winged bean,IGR1191
+Winter savory,IGR1192
+Winter squash,IGR1193
+Wonton wrapper,IGR1194
+Woodapple,IGR1195
+Worcestershire sauce,IGR1196
+Wort,IGR1197
+Yam,IGR1198
+Yardlong bean,IGR1199
+Yarrow,IGR1200
+Yautia,IGR1201
+Yeast,IGR1202
+Yellow Onion,IGR1203
+Yellow Passionfruit,IGR1204
+Yellow pepper,IGR1205
+Yellow pond lily,IGR1206
+Yellowfin tuna,IGR1207
+Yellowtail amberjack,IGR1208
+Ylang-Ylang,IGR1209
+Ymer,IGR1210
+Yogurt,IGR1211
+Yukon Gold Potato,IGR1212
+Zucchini,IGR1213
+Zucchini Noodles,IGR1214
+Zwieback,IGR1215

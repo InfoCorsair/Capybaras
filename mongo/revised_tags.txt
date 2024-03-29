@@ -1,0 +1,27 @@
+Oven
+Blender
+Air Fryer
+Microwave
+Frying Pan
+Crockpot
+Toaster
+Stovetop
+Grill
+Rice Cooker
+Steamer
+Wok
+Saucepan
+Bakeware
+Vegetarian
+Vegan
+Gluten Free
+Contains Nuts
+Dairy
+Contains Shellfish
+Includes Meat
+Breakfast
+Lunch
+Dinner
+Dessert
+Snack
+Baked Goods

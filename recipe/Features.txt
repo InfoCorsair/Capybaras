@@ -1,0 +1,43 @@
+When the user selects add ingredient, find id of last, increment, then add to table?
+BSON object, pull ingredients/tags/steps/name/image/
+
+
+Javascript functions:
+    Functionality for the buttons
+    
+
+
+    dropdown bar - for the different amounts of ingredient
+        Each ingredient has their own amount types
+            
+
+    Sorting(dropdown bar?):
+        Servings
+        Time to Cook
+        Favorites
+        Combining multiple?
+            Favorites and cooking time?
+        # of ingredients
+
+
+
+
+SORT BY AND TAGS
+Sort by:
+# of ingredients(Greater or fewer)
+Total Time to cook(More or less)
+Date added(Recent vs old)
+Serves
+
+
+Tags(have a search):
+Glutenfree
+Vegan
+Nuts
+Oven
+Crockpot
+Blender
+Dessert
+Frying Pan
+Favorite
+Custom?

@@ -1,0 +1,12 @@
+//Brendan My list of ideas
+
+1. Change the name of the navbar button from Export to Upload/Download Recipes //Complete
+2. add a toggle list function in main.html to direct users to exportImport.html //Works
+3. add a toggle list function in exportImport.html //Works
+4. add a toggle list function in ingredients.html //Works
+6. add a toggle list funciton in recipe.html //Works
+7. Figure out a way to direct user to an Upload interface //I have something, but it's rough and understanding is the biggest hurdle for me
+8. Figure out a way to direct user to a Download interface
+9. Implement Upload Form inside exportImport.html file
+9. Implement Upload and Download logic in exportImport.html //Might need to create functions in exportImport.js file
+    --where do I start

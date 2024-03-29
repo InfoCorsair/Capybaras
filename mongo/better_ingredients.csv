@@ -1,0 +1,1179 @@
+IGR001,Abalone,Weight
+IGR002,Abiyuch,Amount
+IGR003,Acerola,Amount
+IGR004,Achilleas,Amount
+IGR005,Acorn,Amount
+IGR006,Acorn Squash,Amount
+IGR007,Adobo,Amount
+IGR008,Adzuki bean,Weight
+IGR009,Agar,Weight
+IGR010,Agave,Amount
+IGR011,Agave Nectar,Volume
+IGR012,Akutaq,Amount
+IGR013,Alaska blackfish,Weight
+IGR014,Alaska pollock,Weight
+IGR015,Alaska wild rhubarb,Amount
+IGR016,Albacore tuna,Weight
+IGR017,Alfalfa,Weight
+IGR018,All-purpose flour,Weight
+IGR019,Allium,Amount
+IGR020,Allspice,Amount
+IGR021,Almond,Weight
+IGR022,Almond essence,Volume
+IGR023,Alpine sweetvetch,Amount
+IGR024,Alpinia,Amount
+IGR025,Amaranth,Weight
+IGR026,Amaretti,Amount
+IGR027,American butterfish,Weight
+IGR028,American Cheese,Weight
+IGR029,American pokeweed,Amount
+IGR030,American shad,Weight
+IGR031,Anatidae,Amount
+IGR032,Anchovy,Weight
+IGR033,Angelica,Amount
+IGR034,Anguilliformes,Amount
+IGR035,Anise,Weight
+IGR036,Anise Brandy,Volume
+IGR037,Anise Hyssop,Amount
+IGR038,Anise Oil,Volume
+IGR039,Apple,Amount
+IGR040,Apple Brandy,Volume
+IGR041,Apple Cider Vinegar,Volume
+IGR042,Apple juice,Volume
+IGR043,Apple Sauce,Volume
+IGR044,Apricot,Amount
+IGR045,Arabica coffee,Amount
+IGR046,Arar,Amount
+IGR047,Arborio Rice,Weight
+IGR048,Arepa,Amount
+IGR049,Armagnac Brandy,Volume
+IGR050,Arrack,Volume
+IGR051,Arrowhead,Weight
+IGR052,Arrowroot,Weight
+IGR053,Artemisia,Amount
+IGR054,Artichoke,Weight
+IGR055,Artichoke heart,Weight
+IGR056,Arugula,Weight
+IGR057,Asafoetida,Weight
+IGR058,Ascidians,Amount
+IGR059,Ashgourd,Amount
+IGR060,Asparagus,Weight
+IGR061,Asparagus spear,Weight
+IGR062,Atlantic croaker,Weight
+IGR063,Atlantic halibut,Weight
+IGR064,Atlantic herring,Weight
+IGR065,Atlantic mackerel,Weight
+IGR066,Atlantic menhaden,Weight
+IGR067,Atlantic pollock,Weight
+IGR068,Atlantic salmon,Weight
+IGR069,Atlantic wolffish,Weight
+IGR070,Aubergine,Weight
+IGR071,Avocado,Weight
+IGR072,Babaco,Amount
+IGR073,Babassu palm,Amount
+IGR074,Bacon,Weight
+IGR075,Bagel,Amount
+IGR076,Baguette,Amount
+IGR077,Baked beans,Volume
+IGR078,Baked potato,Weight
+IGR079,Baking Powder,Weight
+IGR080,Balsamic Vinegar,Volume
+IGR081,Bamboo Shoots,Volume
+IGR082,Banana,Amount
+IGR083,Bantu Beer,Volume
+IGR084,Bap,Amount
+IGR085,Barley,Weight
+IGR086,Bartlett Pear,Amount
+IGR087,Basil,Amount
+IGR088,Basmati Rice,Weight
+IGR089,Bay Leaves,Amount
+IGR090,Bayberry,Amount
+IGR091,Beans,Volume
+IGR092,Bearded seal,Weight
+IGR093,Beaver,Weight
+IGR094,Beech nut,Amount
+IGR095,Beef,Weight
+IGR096,Beef brisket,Weight
+IGR097,Beef mince,Weight
+IGR098,Beef Processed,Weight
+IGR099,Beef stock,Volume
+IGR100,Beefalo,Weight
+IGR101,Beer,Volume
+IGR102,Beetroot,Amount
+IGR103,Beli,Amount
+IGR104,Bell Peppers,Weight
+IGR105,Beluga whale,Weight
+IGR106,Bergamot,Amount
+IGR107,Berry wine,Volume
+IGR108,Bilberry,Amount
+IGR109,Bilberry Wine,Volume
+IGR110,Biscuit,Amount
+IGR111,Bison,Weight
+IGR112,Bitter Cherry,Amount
+IGR113,Bitter Orange,Amount
+IGR114,Bittergourd,Amount
+IGR115,Bivalvia,Amount
+IGR116,Black Bean,Weight
+IGR117,Black bear,Weight
+IGR118,Black crowberry,Amount
+IGR119,Black Currant,Amount
+IGR120,Black huckleberry,Amount
+IGR121,Black mulberry,Amount
+IGR122,Black olive,Amount
+IGR123,Black raspberry,Amount
+IGR124,Black Rice,Weight
+IGR125,Black salsify,Amount
+IGR126,Black Tea,Volume
+IGR127,Black-eyed pea,Weight
+IGR128,Blackberries,Amount
+IGR129,Blackberry,Amount
+IGR130,Blackberry Brandy,Volume
+IGR131,Blue Cheese,Weight
+IGR132,Blue whiting,Weight
+IGR133,Blueberries,Amount
+IGR134,Blueberry,Amount
+IGR135,Bluefish,Weight
+IGR136,Bonito,Weight
+IGR137,Bonnet chilli,Amount
+IGR138,Borage,Amount
+IGR139,Botrytized Wine,Volume
+IGR140,Bottlegourd,Volume
+IGR141,Bouillon,Volume
+IGR142,Bourbon,Volume
+IGR143,Bourbon Whisky,Volume
+IGR144,Bowhead whale,Weight
+IGR145,Boysenberry,Amount
+IGR146,Braising steak,Weight
+IGR147,Bran,Weight
+IGR148,Brandy,Volume
+IGR149,Brazil Nut,Weight
+IGR150,Bread,Amount
+IGR151,Breadcrumbs,Weight
+IGR152,Breadfruit,Amount
+IGR153,Breakfast cereal,Weight
+IGR154,Brie,Weight
+IGR155,Brine,Volume
+IGR156,Broad whitefish,Weight
+IGR157,Broccoli,Weight
+IGR158,Brown bear,Weight
+IGR159,Brown rice,Weight
+IGR160,Brown sauce,Volume
+IGR161,Brown Sugar,Weight
+IGR162,Brussel Sprouts,Weight
+IGR163,Brussels Sprout,Weight
+IGR164,Buchu,Amount
+IGR165,Buckwheat,Weight
+IGR166,Buffalo,Weight
+IGR167,Buffalo currant,Amount
+IGR168,Bulgur,Weight
+IGR169,Bun,Amount
+IGR170,Burbot,Weight
+IGR171,Burdock,Weight
+IGR172,Burrito,Amount
+IGR173,Butter,Weight
+IGR174,Buttermilk,Volume
+IGR175,Butternut,Amount
+IGR176,Butternut Squash,Amount
+IGR177,Butterscotch,Volume
+IGR178,Byrsonima crassifolia,Amount
+IGR179,Cabbage,Weight
+IGR180,Cajeput,Amount
+IGR181,Cake,Amount
+IGR182,Calamus,Amount
+IGR183,Camembert Cheese,Weight
+IGR184,Camphor,Volume
+IGR185,Canada blueberry,Amount
+IGR186,Canadian Whisky,Volume
+IGR187,Candy bar,Amount
+IGR188,Canned Tomato,Volume
+IGR189,Cannellini,Weight
+IGR190,Canola oil,Volume
+IGR191,Caper,Weight
+IGR192,Capers,Weight
+IGR193,Capsicum,Weight
+IGR194,Caramel,Volume
+IGR195,Caraway,Weight
+IGR196,Caraway seed,Weight
+IGR197,Cardamom,Weight
+IGR198,Cardoon,Weight
+IGR199,Caribou,Weight
+IGR200,Carob,Amount
+IGR201,Carom Seed,Weight
+IGR202,Carp bream,Weight
+IGR203,Carrot,Weight
+IGR204,Cascarilla,Weight
+IGR205,Casein,Weight
+IGR206,Cashew,Weight
+IGR207,Cashew Apple,Amount
+IGR208,Cashew nut,Weight
+IGR209,Cassava,Amount
+IGR210,Cassia,Amount
+IGR211,Caster sugar,Weight
+IGR212,Catfish,Weight
+IGR213,Catjang pea,Weight
+IGR214,Cauliflower,Weight
+IGR215,Caviar,Weight
+IGR216,Cayenne,Amount
+IGR217,Cayenne pepper,Amount
+IGR218,Cedar,Amount
+IGR219,Celeriac,Weight
+IGR220,Celery,Weight
+IGR221,Celery Root,Weight
+IGR222,Cereal,Amount
+IGR223,Ceriman,Amount
+IGR224,Cetacea,Amount
+IGR225,Chamomile,Amount
+IGR226,Champaca,Amount
+IGR227,Champagne,Volume
+IGR228,Channel catfish,Weight
+IGR229,Chanterelle,Weight
+IGR230,Chard,Weight
+IGR231,Charr,Weight
+IGR232,Chayote,Amount
+IGR233,Cheddar Cheese,Weight
+IGR234,Cheese,Weight
+IGR235,Cherimoya,Amount
+IGR236,Cherries,Amount
+IGR237,Cherry,Amount
+IGR238,Cherry Brandy,Volume
+IGR239,Cherry Pepper,Amount
+IGR240,Cherry Tomato,Amount
+IGR241,Chervil,Weight
+IGR242,Chestnut,Weight
+IGR243,Chewing gum,Amount
+IGR244,Chia,Weight
+IGR245,Chicken,Weight
+IGR246,Chicken Breast,Weight
+IGR247,Chicken Broth,Volume
+IGR248,Chicken drumstick,Weight
+IGR249,Chicken leg,Weight
+IGR250,Chicken stock,Volume
+IGR251,Chicken thigh,Weight
+IGR252,Chickpea,Weight
+IGR253,Chickpeas,Weight
+IGR254,Chicory,Weight
+IGR255,Chile,Amount
+IGR256,Chilies,Amount
+IGR257,Chilli,Amount
+IGR258,Chimichanga,Amount
+IGR259,Chinese bayberry,Amount
+IGR260,Chinese chestnut,Weight
+IGR261,Chinese Quince,Amount
+IGR262,Chinook salmon,Weight
+IGR263,Chipotle Pepper,Amount
+IGR264,Chive,Weight
+IGR265,Chocolate,Weight
+IGR266,Chocolate mousse,Volume
+IGR267,Chocolate spread,Volume
+IGR268,Chop,Amount
+IGR269,Choy,Amount
+IGR270,Chum salmon,Weight
+IGR271,Chutney,Volume
+IGR272,Ciabatta,Amount
+IGR273,Cichlidae,Amount
+IGR274,Cider,Volume
+IGR275,Cilantro,Weight
+IGR276,Cinnamon,Weight
+IGR277,Cisco,Weight
+IGR278,Citric Acid,Weight
+IGR279,Citronella Oil,Volume
+IGR280,Citrus Fruits,Amount
+IGR281,Citrus Peel Oil,Volume
+IGR282,Clam,Weight
+IGR283,Clarified butter,Volume
+IGR284,Clary Sage,Volume
+IGR285,Climbing bean,Amount
+IGR286,Cloud ear fungus,Amount
+IGR287,Cloudberry,Amount
+IGR288,Clove,Weight
+IGR289,Cloves,Weight
+IGR290,Clupeinae,Amount
+IGR291,Cluster Bean,Amount
+IGR292,Cocktail,Volume
+IGR293,Cocoa,Weight
+IGR294,Cocoa butter,Weight
+IGR295,Cocoa powder,Weight
+IGR296,Coconut,Amount
+IGR297,Coconut Milk,Volume
+IGR298,Coconut Oil,Volume
+IGR299,Cod,Weight
+IGR300,Codfish,Weight
+IGR301,Coffee,Weight
+IGR302,Coffee mocha,Volume
+IGR303,Cognac Brandy,Volume
+IGR304,Coho salmon,Weight
+IGR305,Cold cut,Weight
+IGR306,Coleslaw,Volume
+IGR307,Colocasia,Weight
+IGR308,Colorado pinyon,Weight
+IGR309,Columbidae,Amount
+IGR310,Common carp,Weight
+IGR311,Common dab,Weight
+IGR312,Common ling,Weight
+IGR313,Common octopus,Weight
+IGR314,Common persimmon,Amount
+IGR315,Common salsify,Weight
+IGR316,Common Tuna,Weight
+IGR317,Common verbena,Amount
+IGR318,Comte Cheese,Weight
+IGR319,Conch,Weight
+IGR320,Condensed milk,Volume
+IGR321,Cooking oil,Volume
+IGR322,Cooking Spray,Volume
+IGR323,Coriander,Weight
+IGR324,Coriander leaves,Weight
+IGR325,Coriander Seed,Weight
+IGR326,Corn,Weight
+IGR327,Corn chip,Weight
+IGR328,Corn grits,Weight
+IGR329,Corn Oil,Volume
+IGR330,Corn salad,Weight
+IGR331,Cornbread,Amount
+IGR332,Cornflour,Weight
+IGR333,Cornmeal,Weight
+IGR334,Cornmint,Weight
+IGR335,Cottage Cheese,Weight
+IGR336,Cottonseed,Volume
+IGR337,Courgette,Amount
+IGR338,Couscous,Weight
+IGR339,Crab,Weight
+IGR340,Cranberries,Weight
+IGR341,Cranberry,Amount
+IGR342,Cranberry juice,Volume
+IGR343,Crayfish,Weight
+IGR344,Cream,Volume
+IGR345,Cream Cheese,Weight
+IGR346,Creme de cassis,Volume
+IGR347,Creme fraiche,Volume
+IGR348,Creosote,Volume
+IGR349,Crispbread,Weight
+IGR350,Crust,Volume
+IGR351,Cucumber,Weight
+IGR352,Cucurbita,Amount
+IGR353,Cumin,Weight
+IGR354,Cured Ham,Weight
+IGR355,Currant,Amount
+IGR356,Curry Leaf,Weight
+IGR357,Cusk,Weight
+IGR358,Custard,Volume
+IGR359,Cuttlefish,Weight
+IGR360,Dandelion,Weight
+IGR361,Dates,Weight
+IGR362,Deer,Weight
+IGR363,Deerberry,Amount
+IGR364,Delicata Squash,Amount
+IGR365,Devilfish,Weight
+IGR366,Dijon mustard,Volume
+IGR367,Dill,Weight
+IGR368,Dock,Weight
+IGR369,Dolphin fish,Weight
+IGR370,Domiati Cheese,Weight
+IGR371,Double cream,Volume
+IGR372,Drumstick Leaf,Weight
+IGR373,Duck,Weight
+IGR374,Dulce de leche,Volume
+IGR375,Dumpling,Amount
+IGR376,Durian,Amount
+IGR377,Edamame bean,Weight
+IGR378,Egg,Weight
+IGR379,Egg roll,Weight
+IGR380,Eggplant,Amount
+IGR381,Elderberry,Amount
+IGR382,Elk,Weight
+IGR383,Elliott's blueberry,Amount
+IGR384,Emmental Cheese,Weight
+IGR385,Empanada,Amount
+IGR386,Emu,Weight
+IGR387,Enchilada,Amount
+IGR388,Endive,Weight
+IGR389,Enokitake,Weight
+IGR390,Epazote,Weight
+IGR391,Escarole,Weight
+IGR392,Espresso,Volume
+IGR393,Eucalyptus Oil,Volume
+IGR394,European anchovy,Weight
+IGR395,European chestnut,Weight
+IGR396,European rabbit,Weight
+IGR397,Evaporated milk,Volume
+IGR398,Evening primrose,Amount
+IGR399,Falafel,Amount
+IGR400,Farro,Weight
+IGR401,Fatty Fish,Weight
+IGR402,Feijoa,Amount
+IGR403,Fennel,Weight
+IGR404,Fenugreek,Weight
+IGR405,Fermented Tea,Volume
+IGR406,Feta,Weight
+IGR407,Feta Cheese,Weight
+IGR408,Fig,Amount
+IGR409,Filbert,Weight
+IGR410,Fillet steak,Weight
+IGR411,Filo pastry,Weight
+IGR412,Fingerling Potato,Weight
+IGR413,Finnish Whisky,Volume
+IGR414,Fir,Weight
+IGR415,Fireweed,Amount
+IGR416,Fish,Weight
+IGR417,Fish burger,Weight
+IGR418,Fish Oil,Volume
+IGR419,Flank,Weight
+IGR420,Flatfish,Weight
+IGR421,Flaxseed,Weight
+IGR422,Florida pompano,Weight
+IGR423,Flour,Weight
+IGR424,Focaccia,Weight
+IGR425,Foie gras,Weight
+IGR426,Food Coloring,Volume
+IGR427,Frankfurter Sausage,Weight
+IGR428,French plantain,Amount
+IGR429,French toast,Amount
+IGR430,Freshwater drum,Weight
+IGR431,Freshwater eel,Weight
+IGR432,Fried Potato,Weight
+IGR433,Fruit gum,Amount
+IGR434,Fruit juice,Volume
+IGR435,Fruit salad,Volume
+IGR436,Frybread,Amount
+IGR437,Fudge,Weight
+IGR438,Gadiformes,Amount
+IGR439,Garam masala,Weight
+IGR440,Garcinia Indica,Amount
+IGR441,Garden cress,Weight
+IGR442,Garfish,Weight
+IGR443,Garland chrysanthemum,Weight
+IGR444,Garlic,Weight
+IGR445,Gefilte fish,Weight
+IGR446,Gelatin,Weight
+IGR447,Gelatin dessert,Volume
+IGR448,Geranium,Amount
+IGR449,Ghee,Volume
+IGR450,Ghost Pepper,Amount
+IGR451,Giant butterbur,Weight
+IGR452,Gin,Volume
+IGR453,Ginger,Weight
+IGR454,Ginkgo nuts,Weight
+IGR455,Ginseng,Weight
+IGR456,Glucose,Weight
+IGR457,Goat,Weight
+IGR458,Goat Cheese,Weight
+IGR459,Goat Milk,Volume
+IGR460,Gobo,Amount
+IGR461,Goldenseal,Amount
+IGR462,Goose,Weight
+IGR463,Gouda Cheese,Weight
+IGR464,Grains of Paradise,Weight
+IGR465,Grape,Amount
+IGR466,Grape Seed Oil,Volume
+IGR467,Grapefruit,Amount
+IGR468,Grapefruit juice,Volume
+IGR469,Grapes,Amount
+IGR470,Grapeseed Oil,Volume
+IGR471,Grass carp,Weight
+IGR472,Gravy,Volume
+IGR473,Great Lakes Whitefish,Weight
+IGR474,Greek yogurt,Volume
+IGR475,Grenadine,Volume
+IGR476,Grilled Cheese,Weight
+IGR477,Grist,Volume
+IGR478,Grouper,Weight
+IGR479,Gruyere Cheese,Weight
+IGR480,Guacamole,Amount
+IGR481,Guava,Amount
+IGR482,Guinea pig,Weight
+IGR483,Gulf menhaden,Weight
+IGR484,Gumbo,Volume
+IGR485,Gumdrop,Amount
+IGR486,Haddock,Weight
+IGR487,Hake,Weight
+IGR488,Halloumi Cheese,Weight
+IGR489,Haloumi,Weight
+IGR490,Halva,Amount
+IGR491,Hamburger,Weight
+IGR492,Hammerhead shark,Weight
+IGR493,Hard-boiled egg,Weight
+IGR494,Harissa,Weight
+IGR495,Harvestfish,Weight
+IGR496,Hazelnut,Weight
+IGR497,Hearts of Palm,Weight
+IGR498,Herring,Weight
+IGR499,Hickory Nut,Weight
+IGR500,Highland Coffee,Amount
+IGR501,Himalayan salt,Weight
+IGR502,Honey,Volume
+IGR503,Honeycomb tripe,Weight
+IGR504,Honeydew melon,Amount
+IGR505,Honeysuckle,Amount
+IGR506,Horseradish,Weight
+IGR507,Hot chocolate,Volume
+IGR508,Hot dog,Weight
+IGR509,Hot Sauce,Volume
+IGR510,Hungarian goulash,Volume
+IGR511,Hunters sausage,Weight
+IGR512,Hushpuppy,Amount
+IGR513,Ice cream,Volume
+IGR514,Iced Tea,Volume
+IGR515,Iced-coffee,Volume
+IGR516,Indian fig,Amount
+IGR517,Indian Gooseberry,Amount
+IGR518,Indian jujube,Amount
+IGR519,Indian mustard,Weight
+IGR520,Indian Rice,Weight
+IGR521,Indian wine,Volume
+IGR522,Indigo,Amount
+IGR523,Ink,Volume
+IGR524,Irish Coffee,Volume
+IGR525,Irish moss,Amount
+IGR526,Irish stew,Volume
+IGR527,Irish Whiskey,Volume
+IGR528,Italian parsley,Weight
+IGR529,Jackfruit,Amount
+IGR530,Jaggery,Amount
+IGR531,Jalapeno Pepper,Amount
+IGR532,Jambolan,Amount
+IGR533,Jasmine rice,Weight
+IGR534,Jerusalem artichoke,Weight
+IGR535,Jicama,Amount
+IGR536,Jock,Amount
+IGR537,Juniper berry,Weight
+IGR538,Kale,Weight
+IGR539,Kamut,Weight
+IGR540,Kava,Volume
+IGR541,Keema,Weight
+IGR542,Kernel Oil,Volume
+IGR543,Ketjap manis,Volume
+IGR544,Ketchup,Volume
+IGR545,Kiwi,Amount
+IGR546,Kiwifruit,Amount
+IGR547,Kohlrabi,Weight
+IGR548,Komatsuna,Weight
+IGR549,Konjac,Amount
+IGR550,Kudzu,Amount
+IGR551,Kumquat,Amount
+IGR552,Kuri squash,Amount
+IGR553,Kuzu,Amount
+IGR554,Lager,Volume
+IGR555,Lamb,Weight
+IGR556,Lamb curry,Weight
+IGR557,Lamb rack,Weight
+IGR558,Lamb Shank,Weight
+IGR559,Lamb Stock,Volume
+IGR560,Lamington,Amount
+IGR561,Lard,Weight
+IGR562,Larder beetles,Amount
+IGR563,Lavandin,Amount
+IGR564,Lavender,Amount
+IGR565,Leavening agent,Volume
+IGR566,Lebanese bread,Amount
+IGR567,Lemon,Amount
+IGR568,Lemon balm,Amount
+IGR569,Lemon grass,Amount
+IGR570,Lemon Juice,Volume
+IGR571,Lemon peel,Amount
+IGR572,Lemonade,Volume
+IGR573,Lentil,Weight
+IGR574,Lentils,Weight
+IGR575,Lettuce,Weight
+IGR576,Licorice,Amount
+IGR577,Liege waffle,Amount
+IGR578,Lilac,Amount
+IGR579,Lime,Amount
+IGR580,Lime Juice,Volume
+IGR581,Ling,Weight
+IGR582,Lingcod,Weight
+IGR583,Lingonberry,Amount
+IGR584,Linseed Oil,Volume
+IGR585,Linzer torte,Amount
+IGR586,Litchi,Amount
+IGR587,Liver,Weight
+IGR588,Liver Sausage,Weight
+IGR589,Loaf,Amount
+IGR590,Loaf Bread,Amount
+IGR591,Loaf Cake,Amount
+IGR592,Loaf of bread,Amount
+IGR593,Longan,Amount
+IGR594,Luffa,Amount
+IGR595,Lutefisk,Weight
+IGR596,Lychee,Amount
+IGR597,Mace,Weight
+IGR598,Mackerel,Weight
+IGR599,Madrona,Weight
+IGR600,Mahaleb,Weight
+IGR601,Mahi-Mahi,Weight
+IGR602,Mahi-Mahi Fish,Weight
+IGR603,Maize,Weight
+IGR604,Maitake,Weight
+IGR605,Maldive fish,Weight
+IGR606,Malt,Weight
+IGR607,Mandarin orange,Amount
+IGR608,Mandarine,Amount
+IGR609,Mandolin,Amount
+IGR610,Mandras,Amount
+IGR611,Mango,Amount
+IGR612,Mango Juice,Volume
+IGR613,Mangosteen,Amount
+IGR614,Mangrove Jack,Weight
+IGR615,Manioc,Amount
+IGR616,Maple Sugar,Weight
+IGR617,Maple Syrup,Volume
+IGR618,Maracuya,Amount
+IGR619,Margarine,Volume
+IGR620,Margarita,Volume
+IGR621,Marinara Sauce,Volume
+IGR622,Marjoram,Weight
+IGR623,Marlin,Weight
+IGR624,Marmalade,Volume
+IGR625,Marow,Weight
+IGR626,Marshmallow,Amount
+IGR627,Martini,Volume
+IGR628,Mascarpone,Weight
+IGR629,Mason Jar,Volume
+IGR630,Maté,Volume
+IGR631,Mattak,Weight
+IGR632,Mayonnaise,Volume
+IGR633,McIntosh,Amount
+IGR634,Meat,Weight
+IGR635,Meatball,Weight
+IGR636,Meatloaf,Weight
+IGR637,Medlar,Amount
+IGR638,Meerkat,Weight
+IGR639,Melon,Amount
+IGR640,Membrillo,Amount
+IGR641,Merengue,Volume
+IGR642,Merlot,Volume
+IGR643,Methi,Weight
+IGR644,Metwurst,Weight
+IGR645,Milk,Volume
+IGR646,Milkfish,Weight
+IGR647,Milkshake,Volume
+IGR648,Millet,Weight
+IGR649,Mint,Weight
+IGR650,Miracle fruit,Amount
+IGR651,Miso,Weight
+IGR652,Molasses,Volume
+IGR653,Monkfish,Weight
+IGR654,Monster,Weight
+IGR655,Montasio,Weight
+IGR656,Mooncake,Weight
+IGR657,Moonfish,Weight
+IGR658,Moonseed,Amount
+IGR659,Moravian Spice Cookies,Weight
+IGR660,Morel,Weight
+IGR661,Moth bean,Amount
+IGR662,Moth Orchid,Amount
+IGR663,Moth Pea,Amount
+IGR664,Moths,Amount
+IGR665,Mousse,Volume
+IGR666,Mullet,Weight
+IGR667,Mulukhiyah,Weight
+IGR668,Mung bean,Amount
+IGR669,Muscle,Amount
+IGR670,Must,Volume
+IGR671,Mustard,Weight
+IGR672,Mustard greens,Weight
+IGR673,Mustard Oil,Volume
+IGR674,Mustard seed,Weight
+IGR675,Mutton,Weight
+IGR676,Myrrh,Amount
+IGR677,Nacho,Amount
+IGR678,Nashi Pear,Amount
+IGR679,Navajo frybread,Amount
+IGR680,Navratan korma,Amount
+IGR681,Neck,Amount
+IGR682,Nectarine,Amount
+IGR683,Nemophila,Amount
+IGR684,New Mexican cuisine,Volume
+IGR685,Nigella,Weight
+IGR686,Nitro Cold Brew,Volume
+IGR687,Nopal,Weight
+IGR688,Nougat,Weight
+IGR689,Nut,Weight
+IGR690,Nutmeg,Weight
+IGR691,Nuts,Weight
+IGR692,Oat,Weight
+IGR693,Oat flour,Weight
+IGR694,Oat milk,Volume
+IGR695,Oatmeal,Volume
+IGR696,Oatmeal Cookie,Amount
+IGR697,Oil,Volume
+IGR698,Okra,Amount
+IGR699,Old Fashioned,Volume
+IGR700,Olive,Amount
+IGR701,Olive Oil,Volume
+IGR702,Olives,Amount
+IGR703,Onion,Amount
+IGR704,Onion powder,Weight
+IGR705,Onions,Amount
+IGR706,Opah,Weight
+IGR707,Orange,Amount
+IGR708,Orange Juice,Volume
+IGR709,Orange peel,Amount
+IGR710,Oranges,Amount
+IGR711,Oregano,Weight
+IGR712,Ostrich,Weight
+IGR713,Ouzo,Volume
+IGR714,Oxtail,Weight
+IGR715,Oyster,Weight
+IGR716,Oyster mushroom,Weight
+IGR717,Oysters,Weight
+IGR718,Palm sugar,Weight
+IGR719,Palm syrup,Volume
+IGR720,Pan dulce,Amount
+IGR721,Panettone,Weight
+IGR722,Panettone Bread,Amount
+IGR723,Panini,Amount
+IGR724,Papadum,Amount
+IGR725,Papaya,Amount
+IGR726,Papaya Juice,Volume
+IGR727,Paprika,Weight
+IGR728,Parfait,Volume
+IGR729,Parmesan,Weight
+IGR730,Parmesan Cheese,Weight
+IGR731,Parsley,Weight
+IGR732,Parsnip,Weight
+IGR733,Passata,Volume
+IGR734,Passionfruit,Amount
+IGR735,Passionfruit Juice,Volume
+IGR736,Pasta,Amount
+IGR737,Pasta Sauce,Volume
+IGR738,Paste,Volume
+IGR739,Pastry,Amount
+IGR740,Pastry cream,Volume
+IGR741,Pastry shell,Volume
+IGR742,Pastry, Volume,Volume
+IGR743,Pate,Weight
+IGR744,Pawpaw,Amount
+IGR745,Peach,Amount
+IGR746,Peach Juice,Volume
+IGR747,Peanut,Weight
+IGR748,Peanut Brittle,Amount
+IGR749,Peanut Butter,Volume
+IGR750,Peanuts,Weight
+IGR751,Pear,Amount
+IGR752,Pear Juice,Volume
+IGR753,Pearl Barley,Weight
+IGR754,Pecan,Weight
+IGR755,Pecan Pie,Amount
+IGR756,Pekoe tea,Volume
+IGR757,Pelmeni,Amount
+IGR758,Pepper,Weight
+IGR759,Peppercorn,Weight
+IGR760,Peppermint,Weight
+IGR761,Peppermint Oil,Volume
+IGR762,Perch,Weight
+IGR763,Persian Lime,Amount
+IGR764,Persimmon,Amount
+IGR765,Petroleum Jelly,Volume
+IGR766,Petunia,Amount
+IGR767,Pho,Amount
+IGR768,Pickles,Amount
+IGR769,Pie,Amount
+IGR770,Pie Crust,Amount
+IGR771,Pilaf,Amount
+IGR772,Pilchard,Weight
+IGR773,Pine Nut,Weight
+IGR774,Pineapple,Amount
+IGR775,Pineapple Juice,Volume
+IGR776,Pineberry,Amount
+IGR777,Pink salmon,Weight
+IGR778,Pistachio,Amount
+IGR779,Pistachios,Amount
+IGR780,Pita,Amount
+IGR781,Pita bread,Amount
+IGR782,Pitanga,Amount
+IGR783,Pitta,Amount
+IGR784,Pitted olive,Amount
+IGR785,Pizza,Amount
+IGR786,Plantain,Amount
+IGR787,Pleuronectidae,Amount
+IGR788,Plum,Amount
+IGR789,Plum Brandy,Volume
+IGR790,Plum tomato,Amount
+IGR791,Plum tomatoes,Amount
+IGR792,Plum Wine,Volume
+IGR793,Plumcot,Amount
+IGR794,Poblano,Amount
+IGR795,Pod,Amount
+IGR796,Polar bear,Weight
+IGR797,Polenta,Amount
+IGR798,Pollock,Weight
+IGR799,Pomegranate,Amount
+IGR800,Popcorn,Amount
+IGR801,Poppy Seed,Weight
+IGR802,Pork,Weight
+IGR803,Pork chop,Weight
+IGR804,Pork Loin,Weight
+IGR805,Porridge,Amount
+IGR806,Port Wine,Volume
+IGR807,Pot pie,Amount
+IGR808,Potato,Amount
+IGR809,Potato bread,Amount
+IGR810,Potato chip,Amount
+IGR811,Potato gratin,Amount
+IGR812,Potato puffs,Amount
+IGR813,Potatoes,Amount
+IGR814,Prairie turnip,Amount
+IGR815,Prawn,Weight
+IGR816,Prickly Pear,Amount
+IGR817,Prosciutto,Weight
+IGR818,Prosciutto ham,Weight
+IGR819,Provolone,Weight
+IGR820,Provolone Cheese,Weight
+IGR821,Pudding,Amount
+IGR822,Pummelo,Amount
+IGR823,Pumpkin,Amount
+IGR824,Pumpkinseed sunfish,Weight
+IGR825,Pupusa,Amount
+IGR826,Purple laver,Amount
+IGR827,Purple mangosteen,Amount
+IGR828,Purple Potato,Amount
+IGR829,Purslane,Amount
+IGR830,Quail,Amount
+IGR831,Quesadilla,Amount
+IGR832,Quince,Amount
+IGR833,Quinoa,Amount
+IGR834,Rabbit,Weight
+IGR835,Raccoon,Weight
+IGR836,Radicchio,Amount
+IGR837,Radish,Amount
+IGR838,Radishes,Amount
+IGR839,Rainbow smelt,Amount
+IGR840,Rainbow trout,Weight
+IGR841,Raisin,Amount
+IGR842,Raisin bread,Amount
+IGR843,Raisins,Amount
+IGR844,Rambutan,Amount
+IGR845,Rapeseed oil,Volume
+IGR846,Rapini,Amount
+IGR847,Raspberries,Amount
+IGR848,Raspberry,Amount
+IGR849,Raspberry Brandy,Volume
+IGR850,Ravioli,Amount
+IGR851,Red algae,Amount
+IGR852,Red Cabbage,Amount
+IGR853,Red Currant,Amount
+IGR854,Red king crab,Weight
+IGR855,Red Onion,Amount
+IGR856,Red pepper,Amount
+IGR857,Red raspberry,Amount
+IGR858,Red rice,Amount
+IGR859,Red Sage,Amount
+IGR860,Red Wine,Volume
+IGR861,Red wine vinegar,Volume
+IGR862,Redskin onion,Amount
+IGR863,Relish,Amount
+IGR864,Remoulade,Amount
+IGR865,Rhubarb,Amount
+IGR866,Rib,Amount
+IGR867,Rice,Amount
+IGR868,Rice bread,Amount
+IGR869,Rice cake,Amount
+IGR870,Rice Noodles,Amount
+IGR871,Rice Vinegar,Volume
+IGR872,Ricotta,Amount
+IGR873,Ricotta Cheese,Amount
+IGR874,Ringed seal,Weight
+IGR875,Rock ptarmigan,Weight
+IGR876,Rocket,Amount
+IGR877,Rocket salad,Amount
+IGR878,Roe,Weight
+IGR879,Roibos Tea,Volume
+IGR880,Roll,Amount
+IGR881,Romaine Lettuce,Amount
+IGR882,Romano Cheese,Amount
+IGR883,Roquefort Cheese,Amount
+IGR884,Rose,Amount
+IGR885,Rose hip,Amount
+IGR886,Rose Wine,Volume
+IGR887,Roseapple,Amount
+IGR888,Roselle,Amount
+IGR889,Rosemary,Amount
+IGR890,Rowal,Amount
+IGR891,Rowanberry,Amount
+IGR892,Rum,Volume
+IGR893,Russet,Amount
+IGR894,Russet Potato,Amount
+IGR895,Russian Cheese,Amount
+IGR896,Rutabaga,Amount
+IGR897,Rye,Amount
+IGR898,Rye Bread,Amount
+IGR899,Sablefish,Weight
+IGR900,Safflower,Amount
+IGR901,Saffron,Weight
+IGR902,Sage,Amount
+IGR903,Sago palm,Amount
+IGR904,Sake,Volume
+IGR905,Salad,Amount
+IGR906,Salad dressing,Volume
+IGR907,Salami,Weight
+IGR908,Salmon,Weight
+IGR909,Salmon flake,Amount
+IGR910,Salmonberry,Amount
+IGR911,Salmonidae,Amount
+IGR912,Salsa,Volume
+IGR913,Salt,Weight
+IGR914,Sandalwood,Amount
+IGR915,Sapodilla,Amount
+IGR916,Saskatoon berry,Amount
+IGR917,Sassafras,Amount
+IGR918,Satsuma Orange,Amount
+IGR919,Sauce,Volume
+IGR920,Sauerkraut,Amount
+IGR921,Sausage,Weight
+IGR922,Savoy cabbage,Amount
+IGR923,Scallop,Amount
+IGR924,Scarlet bean,Amount
+IGR925,Schnapps,Volume
+IGR926,Scombridae,Amount
+IGR927,Scotch,Volume
+IGR928,Scotch Spearmint,Amount
+IGR929,Scrapple,Weight
+IGR930,Scup,Amount
+IGR931,Sea Buckthorns,Amount
+IGR932,Sea cucumber,Amount
+IGR933,Sea trout,Weight
+IGR934,Self raising flour,Amount
+IGR935,Semolina,Amount
+IGR936,Serrano ham,Weight
+IGR937,Sesame,Weight
+IGR938,Sesame Oil,Volume
+IGR939,Sesbania flower,Amount
+IGR940,Shallot,Amount
+IGR941,Shallots,Amount
+IGR942,Shaohsing,Volume
+IGR943,Shark,Weight
+IGR944,Shea tree,Amount
+IGR945,Sheefish,Weight
+IGR946,Sheep Cheese,Weight
+IGR947,Sheep Milk,Volume
+IGR948,Sheepshead,Weight
+IGR949,Shellfish,Amount
+IGR950,Sherry,Volume
+IGR951,Shiitake,Amount
+IGR952,Shiitake mushroom,Amount
+IGR953,Shortcrust pastry,Amount
+IGR954,Shortening,Amount
+IGR955,Shrimp,Weight
+IGR956,Silver linden,Amount
+IGR957,Single cream,Volume
+IGR958,Sirloin,Weight
+IGR959,Sirloin steak,Weight
+IGR960,Skimmed Milk,Volume
+IGR961,Skunk currant,Amount
+IGR962,Slaw,Amount
+IGR963,Small leaf linden,Amount
+IGR964,Smelt,Weight
+IGR965,Smoked Fish,Amount
+IGR966,Smoky bacon,Weight
+IGR967,Snack bar,Amount
+IGR968,Snail,Amount
+IGR969,Snapper,Weight
+IGR970,Soba Noodles,Amount
+IGR971,Sockeye salmon,Weight
+IGR972,Soft drink,Volume
+IGR973,Sorghum,Amount
+IGR974,Sorrel,Amount
+IGR975,Soup,Volume
+IGR976,Sour Cherry,Amount
+IGR977,Sour Cream,Volume
+IGR978,Sourdock,Amount
+IGR979,Sourdough,Amount
+IGR980,Soursop,Amount
+IGR981,Soy cream,Volume
+IGR982,Soy milk,Volume
+IGR983,Soy Sauce,Volume
+IGR984,Soy yogurt,Volume
+IGR985,Soybean,Amount
+IGR986,Soybean Oil,Volume
+IGR987,Soybean Sauce,Volume
+IGR988,Spaghetti,Amount
+IGR989,Spaghetti Squash,Amount
+IGR990,Spanish mackerel,Weight
+IGR991,Spanish Sage,Amount
+IGR992,Sparkleberry,Amount
+IGR993,Sparkling Wine,Volume
+IGR994,Spearmint,Amount
+IGR995,Spelt,Amount
+IGR996,Spice,Amount
+IGR997,Spinach,Amount
+IGR998,Spineless Monkey Orange,Amount
+IGR999,Spiny dogfish,Weight
+IGR1000,Spiny lobster,Weight
+IGR1001,Spirit,Volume
+IGR1002,Spirulina,Amount
+IGR1003,Sponge,Amount
+IGR1004,Spot croaker,Weight
+IGR1005,Spotted seal,Weight
+IGR1006,Spread,Volume
+IGR1007,Spring onion,Amount
+IGR1008,Sprout,Amount
+IGR1009,Squab,Weight
+IGR1010,Squash,Amount
+IGR1011,Squashberry,Amount
+IGR1012,Squid,Weight
+IGR1013,Squirrel,Weight
+IGR1014,Sriracha,Volume
+IGR1015,Star Anise,Amount
+IGR1016,Starfruit,Amount
+IGR1017,Steak,Weight
+IGR1018,Steller sea lion,Weight
+IGR1019,Stew,Amount
+IGR1020,Stock,Volume
+IGR1021,Storax,Volume
+IGR1022,Stout,Volume
+IGR1023,Strawberries,Amount
+IGR1024,Strawberry,Amount
+IGR1025,Strawberry Jam,Volume
+IGR1026,Strawberry Wine,Volume
+IGR1027,Striped bass,Weight
+IGR1028,Striped mullet,Weight
+IGR1029,Stuffing,Amount
+IGR1030,Sturgeon,Weight
+IGR1031,Succotash,Amount
+IGR1032,Sugar,Weight
+IGR1033,Sugar snap pea,Amount
+IGR1034,Sukiyaki,Amount
+IGR1035,Sultana,Amount
+IGR1036,Summer savory,Amount
+IGR1037,Sun-Dried Tomatoes,Amount
+IGR1038,Sunflower,Amount
+IGR1039,Sunflower oil,Volume
+IGR1040,Swamp cabbage,Amount
+IGR1041,Sweet Cherry,Amount
+IGR1042,Sweet custard,Amount
+IGR1043,Sweet Grass,Amount
+IGR1044,Sweet pepper,Amount
+IGR1045,Sweet Potato,Amount
+IGR1046,Sweetcorn,Amount
+IGR1047,Sweets,Amount
+IGR1048,Swiss Cheese,Weight
+IGR1049,Swordfish,Weight
+IGR1050,Syrup,Volume
+IGR1051,Taco,Amount
+IGR1052,Tamale,Amount
+IGR1053,Tamarind,Amount
+IGR1054,Tangerine,Amount
+IGR1055,Tapioca,Amount
+IGR1056,Tapioca pearl,Amount
+IGR1057,Taro,Amount
+IGR1058,Tarragon,Amount
+IGR1059,Tartar,Amount
+IGR1060,Tartary buckwheat,Amount
+IGR1061,Tea,Volume
+IGR1062,Tea leaf willow,Amount
+IGR1063,Teff,Amount
+IGR1064,Tequila,Volume
+IGR1065,Thistle,Amount
+IGR1066,Thyme,Amount
+IGR1067,Tilefish,Weight
+IGR1068,Tilsit Cheese,Weight
+IGR1069,Tinda,Amount
+IGR1070,Toast,Amount
+IGR1071,Tobacco,Amount
+IGR1072,Toffee,Amount
+IGR1073,Tofu,Amount
+IGR1074,Tomato,Amount
+IGR1075,Tomato Juice,Volume
+IGR1076,Tomato Paste,Volume
+IGR1077,Tomato puree,Volume
+IGR1078,Tomatoes,Amount
+IGR1079,Topping,Amount
+IGR1080,Tortilla,Amount
+IGR1081,Tortilla chip,Amount
+IGR1082,Tostada,Amount
+IGR1083,Towel gourd,Amount
+IGR1084,Trail mix,Amount
+IGR1085,Trassi,Amount
+IGR1086,Treacle,Volume
+IGR1087,Tree fern,Amount
+IGR1088,Triticale,Amount
+IGR1089,True frog,Amount
+IGR1090,True seal,Amount
+IGR1091,True sole,Amount
+IGR1092,Truffle,Amount
+IGR1093,Tuna,Weight
+IGR1094,Tuna steak,Weight
+IGR1095,Turbot,Weight
+IGR1096,Turkey,Weight
+IGR1097,Turkey Berry,Amount
+IGR1098,Turkey breast,Weight
+IGR1099,Turkey thigh,Weight
+IGR1100,Turmeric,Amount
+IGR1101,Turnip,Amount
+IGR1102,Ucuhuba,Amount
+IGR1103,Udon Noodles,Amount
+IGR1104,Unsweetened Chocolate,Weight
+IGR1105,Valerian,Amount
+IGR1106,Vanilla,Amount
+IGR1107,Vanilla essence,Volume
+IGR1108,Vanilla Extract,Volume
+IGR1109,Vanilla pod,Amount
+IGR1110,Veal,Weight
+IGR1111,Vegetable juice,Volume
+IGR1112,Vegetable oil,Volume
+IGR1113,Vermicelli,Amount
+IGR1114,Vermouth,Volume
+IGR1115,Vinaigrette,Volume
+IGR1116,Vinegar,Volume
+IGR1117,Vodka,Volume
+IGR1118,Waffle,Amount
+IGR1119,Wakame,Amount
+IGR1120,Walleye,Weight
+IGR1121,Walnut,Weight
+IGR1122,Walrus,Weight
+IGR1123,Wasabi,Amount
+IGR1124,Water,Volume
+IGR1125,Water Chestnut,Amount
+IGR1126,Water Chestnuts,Amount
+IGR1127,Watercress,Amount
+IGR1128,Watermelon,Amount
+IGR1129,Wattle,Amount
+IGR1130,Weinbrand Brandy,Volume
+IGR1131,Welsh onion,Amount
+IGR1132,Wheat,Amount
+IGR1133,Wheaten Bread,Amount
+IGR1134,Whelk,Weight
+IGR1135,Whey,Volume
+IGR1136,Whisky,Volume
+IGR1137,White Bread,Amount
+IGR1138,White Currant,Amount
+IGR1139,White lupine,Amount
+IGR1140,White Pepper,Weight
+IGR1141,White rice,Amount
+IGR1142,White sucker,Amount
+IGR1143,White Wine,Volume
+IGR1144,White Wine Vinegar,Volume
+IGR1145,Whitefish,Weight
+IGR1146,Whiting,Weight
+IGR1147,Whole Chicken,Weight
+IGR1148,Whole Turkey,Weight
+IGR1149,Wholegrain pasta,Amount
+IGR1150,Wholewheat Bread,Amount
+IGR1151,Wild boar,Weight
+IGR1152,Wild duck,Weight
+IGR1153,Wild Rice,Amount
+IGR1154,Wine,Volume
+IGR1155,Winged bean,Amount
+IGR1156,Winter savory,Amount
+IGR1157,Winter squash,Amount
+IGR1158,Wonton wrapper,Amount
+IGR1159,Woodapple,Amount
+IGR1160,Worcestershire sauce,Volume
+IGR1161,Wort,Volume
+IGR1162,Yam,Amount
+IGR1163,Yardlong bean,Amount
+IGR1164,Yarrow,Amount
+IGR1165,Yautia,Amount
+IGR1166,Yeast,Amount
+IGR1167,Yellow Onion,Amount
+IGR1168,Yellow Passionfruit,Amount
+IGR1169,Yellow pepper,Amount
+IGR1170,Yellow pond lily,Amount
+IGR1171,Yellowfin tuna,Weight
+IGR1172,Yellowtail amberjack,Weight
+IGR1173,Ylang-Ylang,Amount
+IGR1174,Ymer,Volume
+IGR1175,Yogurt,Volume
+IGR1176,Yukon Gold Potato,Amount
+IGR1177,Zucchini,Amount
+IGR1178,Zucchini Noodles,Amount
+IGR1179,Zwieback,Amount
