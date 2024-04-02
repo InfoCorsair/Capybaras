@@ -66,20 +66,19 @@ Appliances
 -->
 
 <div class="form-check">
-<form method="POST" action="/">
 	<h3>Appliances</h3>
 	 <a class="btn btn-primary" data-toggle="collapse" href="#AppButton" aria-expanded="false" aria-controls="AppButton"> Appliance Tags</a>
 	 <div id ="AppButton" class="collapse">
 	 
 	 <div class = "collapse-app">
-          <input class="form-check-input" type="checkbox" value="" id=flexCheckDefault1" name="check">
+          <input class="form-check-input" type="checkbox" value="" id=flexCheckDefault1">
             <label class="form-check-label" for="flexCheckDefault1">
             Air Fryer
             </label>
 	    </div>
 	 
 	  <div class = "collapse-app">
-	   <input class="form-check-input" type="checkbox" value="" id=flexCheckDefault2" name="check">
+	   <input class="form-check-input" type="checkbox" value="" id=flexCheckDefault2">
             <label class="form-check-label" for="flexCheckDefault2">
             Bakeware
             </label>
@@ -274,7 +273,6 @@ Appliances
 
         <h3>Custom</h3>
 	 <a class="btn btn-primary" data-toggle="collapse" href="#CustButton" aria-expanded="false" aria-controls="CustButton"> Custom Tags</a>
-	 
 	<div id ="CustButton" class="collapse">
 	
 	<div class="collapse-custom">
@@ -291,8 +289,6 @@ Appliances
             </label>
 	    </div>
 	    </div>
-	    <input type="submit">
-	    </form>
             </div>
 
              <!--   <ul class="list-group">
@@ -309,9 +305,8 @@ Appliances
 		 <div class="form-group">
 		 <input type="text" class="form-control" id="ingredientInput" placeholder="Enter ingredient">
 		 </div>
+		 
 		 <button onclick="addIngredient()" class="btn btn-primary" id="addIngredientBtn">Add</button>
-
-		 <!--<form method="POST" action="/">-->
 		 <button type="submit" id="1" class="btn btn-success float-right" onclick="submitInfo(this)" > Submit</button>
 		 </div>
 		 
@@ -322,7 +317,7 @@ Appliances
 		 <!--Add Remove Things-->
 		 </ul>
 		 </div>
-		 <!--</form>-->
+		
             </div>
         </div>
     </div>
