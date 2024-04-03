@@ -1,30 +1,54 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request, redirect, url_for
 from pymongo import MongoClient
 
-app = Flask(__name__)
+app = Flask(__name__, '/static')
 
 myclient = MongoClient('localhost', 27017)
 
 mydb = myclient["CapyCookin"]
+
 mycol = mydb["Ingredients"]
+#mycol.drop();
+def add(name, ingred):
+  mydict = {"name": name, "numIngredients": ingred}
+  x = mycol.insert_one(mydict)
 
-mydict = { "name": "Fried Egg", "Ingredients": ["Egg", "Oil"], "Amounts": ["1", "1"], "Cook_Time": "240"}
+def getNames():
+  b = mycol.find()
+  n = []
+  for f in b:
+    n.append(f)
+  return n;
+"""
+def delete():
+  mycol.drop()
+  mycol = mydb["Ingredients"]
 
-x = mycol.insert_one(mydict)
-mydict = { "name": "Chicken", "Ingredients": ["Flour", "Chicken"], "Amounts": ["1", "1"], "Cook_Time": "240"}
+def delete(mycol):
+mycol.drop()
+mycol = mydb["Ingredients"]
+"""
 
-x = mycol.insert_one(mydict)
 
-b = mycol.find()
-f = b.next();
-names = []
-names.append(f['name'])
-
-f = b.next();
-names.append(f['name'])
 @app.route("/")
 def list():
-  return render_template('ex.html', names = names)
+  return render_template('recipe.html', names = getNames())
+
+@app.route("/process_form", methods=["GET", "POST"])
+def form():
+  namea = request.form.get('name')
+  inga = request.form.get('numIngredients')
+  add(namea, inga);
+  return redirect(url_for('show_form'))
+@app.route("/form")
+
+#def delete(mycol):
+#mycol.drop()
+#mycol = mydb["Ingredients"]
+
+def show_form():
+  return render_template("form.html", mycol=mycol)
+#@app.route("/form/delete")
 if __name__ == '__main__':
   app.run()
 

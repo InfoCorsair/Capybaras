@@ -1,3 +1,11 @@
+###################################
+#
+#	INSERT_RECIPE.PY
+# 
+# The purpose of this file is simply to demonstrate
+# how an insert_recipe request must be handled
+#
+###################################
 from pymongo import MongoClient
 
 # Establish connection to the database

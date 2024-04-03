@@ -1,0 +1,46 @@
+.form-check {
+  font-size:20px;
+  align-content:space-evenly;
+}
+
+.collapse {
+  flex-direction:column;
+  display:grid;
+  grid-template-columns:auto auto auto auto;
+}
+/*.collapse-diet {
+  flex-direction:column;
+  display:grid;
+  grid-template-columns:auto auto auto auto;
+}
+.collapse-meal{
+  flex-direction:column;
+  grid-template-columns:auto auto auto auto;
+  display:grid;
+}
+
+.collapse-custom {
+  flex-direction:column;
+  grid-template-columns:auto auto auto auto;
+  display:grid;
+}*/
+
+.form-check-label{
+  font-family: "Arial","sans-serify"; 
+}
+
+h2 {
+  font-weight:bold;
+  text-decoration:underline;
+}
+
+h3 {
+  font-weight:bold;
+  font-family:"Comic Sans MS","Comic Sans", "cursive";
+  font-size:40px;
+}
+.btn-primary {
+  background-color:#ff9ad8;
+  color:white;
+  font-weight:bold;	
+}

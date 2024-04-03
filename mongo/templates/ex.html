@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> EX</title>
+    <title>EX</title>
 
 </head>
 <body>
-{{
-  names
- }}
+<div>
+{% for name in names %}
+    <div class="n"><p>{{ name }}</p></div>
+{% endfor %}
+</div>
 </body>
 </html

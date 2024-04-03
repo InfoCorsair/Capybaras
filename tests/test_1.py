@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch
 from io import StringIO
-
+from find_ingredients import find_ingred, ingredient_list
 class TestIngredientFunctions(unittest.TestCase):
 
     @patch('builtins.input', side_effect=["flour"])
