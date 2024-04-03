@@ -1,5 +1,6 @@
-//Brendan My list of ideas
+//Brendan Schweichler
 
+TODO - In-progress
 1. Change the name of the navbar button from Export to Upload/Download Recipes //Complete
 2. add a toggle list function in main.html to direct users to exportImport.html //Works
 3. add a toggle list function in exportImport.html //Works
