@@ -76,9 +76,11 @@
                     </div>
         <div id="content">
 {% for name in names %}
-<div class="row"><div class="col-md"><a href="recipe_template.html">{{name['name']}}</a></div>
-<div class="col-md">{{name['numIngredients']}}
-</div>
+<div class="row"><div class="col-md-2"><a href="recipe_template.html">{{name['name']}}</a></div>
+<div class="col-md-2">{{name['numIngredients']}}</div>
+<div class="col-md-2">{{name['numServings']}}</div>
+<div class="col-md-2">{{name['cookTime']}}</div>
+<div class="col-md-2">{{name['date']}}</div>
 </div>
 {% endfor %}
         </div>

@@ -49,10 +49,16 @@
     <!--<button type="button">DELETE</button>-->
     <form autocomplete="off" method="POST" action="/process_form" enctype="multipart/form-data">
     
-    <label for="name">Name:</label><br>
+    <label for="name">Name:</label>
         <input type="text" id="name" name="name"><br>
-        <label for="numIngredients">Number of Ingredients</label>
-        <input type="text" id="numIngredients" name="numIngredients"><br>
+        <label for="numIngredients">Number of Ingredients:</label>
+        <input type="number" id="numIngredients" name="numIngredients"><br>
+        <label for="servings">Number of Servings:</label>
+        <input type="number" id="numServings" name="numServings"><br>
+        <label for="cookTime">Cook Time:</label>
+        <input type="text" id="cookTime" name="cookTime"><br>
+        <label for="date">Date:</label>
+        <input type="text" id="date" name="date"<br>
         <input type="submit" value="Submit">
     </form>
 

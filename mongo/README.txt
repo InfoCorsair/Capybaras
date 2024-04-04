@@ -40,11 +40,6 @@ From Anna
       website.
     - Author: Jesse Johnsen and Anna Fox
 
-  * test_recipe.txt
-    - This text file contains a default recipe (WITH STEPS) in the
-      format it should appear on the website when selected.
-    - Author: Jesse Johnsen
-
   * measurement.py
     - This Python script takes an ingredient name and returns the
       measurement type (Weight, Amount, or Volume).

@@ -6,9 +6,9 @@
  to a recipe.
 
 ***********************************/
-document.getElementById("addIngredientBtn").addEventListener("click", function() {
-  addIngredient();
-});
+//document.getElementById("addIngredientBtn").addEventListener("click", function() {
+ // addIngredient();
+//});
 
 function addIngredient() {
   //Gets input value

@@ -1,0 +1,16 @@
+//Brendan Schweichler
+//Notes
+
+1. Change the name of the navbar button from Export to Upload/Download Recipes //Complete
+2. add a toggle list function in main.html to direct users to exportImport.html //Works
+3. add a toggle list function in exportImport.html //Works
+4. add a toggle list function in ingredients.html //Works
+6. add a toggle list funciton in recipe.html //Works
+7. add a login form and signup form page in html//forms work
+     --add validation feedback //basic validation techniques done
+     --handle form submission //still in-progress
+
+TODO:
+8. Backend configuration handling
+9. Store session information in localStorage or sessionStorage
+10. Provide a user_dependent UI to allow user to see login status where they can choose to logout, and access favorite and custom recipes

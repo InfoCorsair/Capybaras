@@ -3,10 +3,16 @@
 
 <head>
   <title> Senior Seminar Recipes</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css"
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- You can include your custom CSS file here -->
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="ingredients.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="ingredients.js"></script>
 
 </head>
 
@@ -20,7 +26,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link active" href="#">Main<span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="main.html">Main<span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
@@ -66,16 +72,23 @@
     </div>
   </nav>
 
-
-
   <div class="container">
-    <div class="row">
-      <div class="col">
-        <ul class="list-group">
-          <li class="list-group-item"> Each doc contains a list of all ingredient keys</li>
-          <li class="list-group-item">Each doc contains amount of eac ingredient required</li>
-          <li class="list-group-item">
-        </ul>
+    <div class="row justify-content-center">
+      <div class="col-md-6">
+        <h2>Login</h2>
+        <form action="/login" method="post">
+          <label for="inputEmail">Email address</label>
+          <input type="email" class="form-control" id="inputEmail" name="email" aria-describedby="emailHelp" required>
+          <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+          <label for="inputPassword">Password</label>
+          <input type="password" class="form-control" id="inputPassword" name="password" required>
+          <button type="submit" class="btn btn-primary">Login</button>
+          <input type="checkbox" id="remember-me" name="remember-me" value="true" checked>
+          <label for="remember-me">Remember me</label>
+        </form>
+        <div class="mt-3">
+          <p>Don't have an account? <a href="signup.html">Sign up</a></p>
+        </div>
       </div>
     </div>
   </div>

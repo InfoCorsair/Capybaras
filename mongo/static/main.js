@@ -5,15 +5,15 @@ let cookA = true;
 let ingA = true;
 
 /*var jsonArray = [
-{
+  {
   "name": "Fried Pickles",
-    "ing": 5,
-    "servings": 2,
-    "cook": 20,
-    "date": "1/22/2024",
-    "tags": ["Vegan","Vegetarian","Gluten Free"]
-},
-{
+  "ing": 5,
+  "servings": 2,
+  "cook": 20,
+  "date": "1/22/2024",
+  "tags": ["Vegan","Vegetarian","Gluten Free"]
+  },
+  {
 
   "name": "Chicken Nuggets",
   "ing": 24,
@@ -22,25 +22,25 @@ let ingA = true;
   "date": "10/5/2024",
   "tags": ["Vegan"]
 
-},
-{
+  },
+  {
   "name": "Stirfry",
   "ing": 47,
   "servings": 18,
   "cook": 12,
   "date": "6/2/2019",
   "tags": ["Vegetarian", "Gluten Free"]
-},
-{
+  },
+  {
   "name": "Mac n cheese",
   "ing": 12,
   "servings": 3,
   "cook": 3,
   "date": "6/2/2019",
   "tags": ["Gluten Free"]
-},
+  },
 
-{
+  {
 
   "name": "Cheese Fries",
   "ing": 3,
@@ -48,60 +48,75 @@ let ingA = true;
   "cook": 15,
   "date": "7/12/2008",
   "tags": ["Stove Top", "Vegan"]
-}
-];
+  }
+  ];
 
-function addRecipe(){
+  function addRecipe(){
 
-}
+  }
 
-function generateHTMLFromJSON() {
+  function generateHTMLFromJSON() {
   var contentContainer = document.getElementById('content');
   var it = 0;
   jsonArray.forEach(function(item) {
-    
-      var itemDiv = document.createElement('div');
-      itemDiv.className = 'item';
+
+  var itemDiv = document.createElement('div');
+  itemDiv.className = 'item';
 
 
-      itemDiv.innerHTML = `
-      <div class="row">
-      <div class="col-md">${item.name}</div>
-      <div class="col-md">${item.ing} Ingredients</div>
-      <div class="col-md">Serves ${item.servings}</div>
-      <div class="col-md">${item.cook} Minutes</div>
-      <div class="col-md">${item.date}</div>
-      <div class="col-md">
-      
+  itemDiv.innerHTML = `
+  <div class="row">
+  <div class="col-md">${item.name}</div>
+  <div class="col-md">${item.ing} Ingredients</div>
+  <div class="col-md">Serves ${item.servings}</div>
+  <div class="col-md">${item.cook} Minutes</div>
+  <div class="col-md">${item.date}</div>
+  <div class="col-md">
 
-<p>
-  <a class="btn btn-primary" data-toggle="collapse" href="#${it.toString()}" role="button" aria-expanded="false" aria-controls="${it.toString()}">
-    Tags
-  </a>
- </p>
+
+  <p>
+<a class="btn btn-primary" data-toggle="collapse" href="#${it.toString()}" role="button" aria-expanded="false" aria-controls="${it.toString()}">
+Tags
+</a>
+</p>
 <div class="collapse" id="${it.toString()}">
-  <div class="card card-body">
-  ${item.tags} 
-  </div>
+<div class="card card-body">
+${item.tags} 
+</div>
 </div>
 
 
 
-      </div>
-      </div>
-      `;
-  it += 1;
+</div>
+</div>
+`;
+it += 1;
 
 
-      contentContainer.appendChild(itemDiv);
-      });
+contentContainer.appendChild(itemDiv);
+});
 }
 */
 
 window.onload = function() {
-  generateHTMLFromJSON();
+  //generateHTMLFromJSON();
+  getData();
 };
-
+function getData(){
+  const url ='http://127.0.0.1:5000/getData'
+    fetch(url)
+    .then(response =>response.json())
+    .then(json=>{
+        //console.log(json.Jack);
+        console.log(json);
+        alert(json[0]);
+        /*
+        for(let i = 0; i < json.length; i++){
+            let obj = json[i];
+            alert(obj.name);
+        }*/
+        })
+}
 function sortIngredients(){
   var container = document.getElementById('content');
   container.innerHTML = '';
