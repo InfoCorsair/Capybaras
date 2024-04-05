@@ -1,6 +1,5 @@
 from flask import Flask, render_template, request, redirect, url_for, jsonify, after_this_request
 import json
-import ejson
 from pymongo import MongoClient
 
 app = Flask(__name__, '/static')
@@ -14,6 +13,10 @@ mycol = mydb["Ingredients"]
 def add(name, ingred, serva, cooka, datea):
   mydict = {"name": name, "numIngredients": ingred, "numServings": serva, "cookTime": cooka, "date": datea}
   x = mycol.insert_one(mydict)
+def flatten(x):
+  oldid = x['_id']
+  x['_id'] = str(oldid)
+  return x
 
 def getNames():
   b = mycol.find()
@@ -33,8 +36,12 @@ def getNames():
 
 
 @app.route("/")
-def list():
+def home():
   return render_template('recipe.html', names = getNames())
+
+@app.route("/recipe_template")
+def recipe_template():
+  return render_template('recipe_template.html', name="pea soup", numIngrediens="5", date="2024-04-04", numServings="4", cookTime="1 hour")
 
 @app.route("/process_form", methods=["GET", "POST"])
 def form():
@@ -60,10 +67,11 @@ def getData():
     response.headers.add('Access-Control-Allow-Origin', '*')
     return response
 
-# n = getNames()
-  names = EJSON.seralize(mydb.mycol.find().toArray())
-  print(names)
-  return names
+  n = list(map(flatten, getNames()))
+
+#names = EJSON.seralize(mydb.mycol.find().toArray())
+  print(n)
+  return n
 # res = jsonify({'requests':list(n)})
 # return (res)
 #  print(n)

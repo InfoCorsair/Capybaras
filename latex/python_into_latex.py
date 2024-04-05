@@ -1,6 +1,7 @@
 endDocument = 0;
-
-with open('test_output.tex', 'w') as f:
+fileName = input("Enter file name: ")
+path = "latex_output/" + fileName + ".tex"
+with open(path, 'w') as f:
   f.write('\\documentclass[a4paper,12pt]{article}\n')
   f.write('\\begin{document}\n')
   f.write('\\title{\LARGE CapyCookin}\n')

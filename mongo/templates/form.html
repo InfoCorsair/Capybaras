@@ -13,14 +13,16 @@
 <body>
  <h1>CapyCookin'</h1>
 
+{% include 'navbar.html' %}
 
-       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+       <!--<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <a class="navbar-brand" href="#">Welcome</a>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
                         <a class="nav-link" href="main.html">Main<span class="sr-only">(current)</span></a>
-                    </li>
+                        </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Ingredients
@@ -29,22 +31,22 @@
                             <a class="dropdown-item" href="ingredients.html">View</a>
                             <a class="dropdown-item" href="#">Add</a>
                         </div>
-                    </li>
-                    <li class="nav-item dropdown">
+                        </li>--!>
+                    <!--<li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Recipes
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="{{url_for('list')}}">View</a>
+                            <a class="dropdown-item" href="{{url_for('recipes')}}">View</a>
                             <a class="dropdown-item active" href="#">Add</a>
                         </div>
-                    </li>
-                    <li class="nav-item">
+                        </li>--!>
+                    <!--<li class="nav-item">
                         <a class="nav-link" href="export.html">Export<span class="sr-only">(current)</span></a>
                     </li>
                 </ul>
             </div>
-       </nav>
+            </nav>--!>
 
     <!--<button type="button">DELETE</button>-->
     <form autocomplete="off" method="POST" action="/process_form" enctype="multipart/form-data">
@@ -52,13 +54,15 @@
     <label for="name">Name:</label>
         <input type="text" id="name" name="name"><br>
         <label for="numIngredients">Number of Ingredients:</label>
-        <input type="number" id="numIngredients" name="numIngredients"><br>
+        <input type="number" id="numIngredients" name="numIngredients" min="1"><br>
         <label for="servings">Number of Servings:</label>
-        <input type="number" id="numServings" name="numServings"><br>
+        <input type="number" id="numServings" name="numServings" min="1"><br>
         <label for="cookTime">Cook Time:</label>
         <input type="text" id="cookTime" name="cookTime"><br>
         <label for="date">Date:</label>
-        <input type="text" id="date" name="date"<br>
+        <input type="date" id="date" name="date"><br>
+	<label for="steps">Steps:</label><br>
+	<textarea id="steps" name="steps" rows="4" cols="50">Type/Paste how to make your dish here!</textarea><br>
         <input type="submit" value="Submit">
     </form>
 

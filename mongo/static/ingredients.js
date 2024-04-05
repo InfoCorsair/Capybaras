@@ -49,6 +49,9 @@ function toggleButton(elem) {
     x.style.display ="none";
 }
 
+submitInfo = function(){
+  document.forms["form1"].submit();
+}
 
 
 function removeIngredients(button){

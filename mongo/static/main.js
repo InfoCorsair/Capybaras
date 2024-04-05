@@ -4,59 +4,9 @@ let servA = true;
 let cookA = true;
 let ingA = true;
 
-/*var jsonArray = [
-  {
-  "name": "Fried Pickles",
-  "ing": 5,
-  "servings": 2,
-  "cook": 20,
-  "date": "1/22/2024",
-  "tags": ["Vegan","Vegetarian","Gluten Free"]
-  },
-  {
-
-  "name": "Chicken Nuggets",
-  "ing": 24,
-  "servings": 4,
-  "cook": 10,
-  "date": "10/5/2024",
-  "tags": ["Vegan"]
-
-  },
-  {
-  "name": "Stirfry",
-  "ing": 47,
-  "servings": 18,
-  "cook": 12,
-  "date": "6/2/2019",
-  "tags": ["Vegetarian", "Gluten Free"]
-  },
-  {
-  "name": "Mac n cheese",
-  "ing": 12,
-  "servings": 3,
-  "cook": 3,
-  "date": "6/2/2019",
-  "tags": ["Gluten Free"]
-  },
-
-  {
-
-  "name": "Cheese Fries",
-  "ing": 3,
-  "servings": 2,
-  "cook": 15,
-  "date": "7/12/2008",
-  "tags": ["Stove Top", "Vegan"]
-  }
-  ];
-
-  function addRecipe(){
-
-  }
-
-  function generateHTMLFromJSON() {
+function generateHTMLFromJSON() {
   var contentContainer = document.getElementById('content');
+ // contentContainer = "";
   var it = 0;
   jsonArray.forEach(function(item) {
 
@@ -66,10 +16,10 @@ let ingA = true;
 
   itemDiv.innerHTML = `
   <div class="row">
-  <div class="col-md">${item.name}</div>
-  <div class="col-md">${item.ing} Ingredients</div>
-  <div class="col-md">Serves ${item.servings}</div>
-  <div class="col-md">${item.cook} Minutes</div>
+  <div class="col-md"><a href="#">${item.name}</a></div>
+  <div class="col-md">${item.ing} </div>
+  <div class="col-md">${item.servings}</div>
+  <div class="col-md">${item.cook} </div>
   <div class="col-md">${item.date}</div>
   <div class="col-md">
 
@@ -96,11 +46,12 @@ it += 1;
 contentContainer.appendChild(itemDiv);
 });
 }
-*/
 
+ jsonArray = [];
 window.onload = function() {
   //generateHTMLFromJSON();
   getData();
+  generateHTMLFromJSON();
 };
 function getData(){
   const url ='http://127.0.0.1:5000/getData'
@@ -109,13 +60,25 @@ function getData(){
     .then(json=>{
         //console.log(json.Jack);
         console.log(json);
-        alert(json[0]);
+        //alert(json[0].name);
+        for(var i = 0; i < json.length; ++i){
+        /*jsonArray[i].name = json[i].name;
+        jsonArray[i].ing = json[i].numIngredients;
+        jsonArray[i].cook = json[i].cookTime;
+        jsonArray[i].servings = json[i].numServings;
+        jsonArray[i].date = json[i].date;
+        */
+        var item = {"name": json[i].name, "ing": json[i].numIngredients, "cook": json[i].cookTime, "servings": json[i].numServings, "date": json[i].date}; 
+        jsonArray.push(item);
+        }
         /*
         for(let i = 0; i < json.length; i++){
             let obj = json[i];
             alert(obj.name);
         }*/
         })
+//  alert(jsonArray);
+  generateHTMLFromJSON();
 }
 function sortIngredients(){
   var container = document.getElementById('content');
@@ -180,6 +143,17 @@ function sortServings(){
       });
   generateHTMLFromJSON(); 
 }
+function sortDate(){
+  var container = document.getElementById('content');
+  container.innerHTML = '';
+  //jsonArray.sort(function(a, b) {
+  if (dateA == true) {
+    jsonArray.sort((a,b) => a.date - b.date);
+  } else {
+    jsonArray.sort((a,b) => b.date - a.date);
+  }
+  generateHTMLFromJSON(); 
+}
 
 
 
@@ -222,6 +196,7 @@ function onClickDate() {
       button.textContent = "Date G->L";
       }
       });
+  sortDate();
 
 
   dateA = !dateA;
